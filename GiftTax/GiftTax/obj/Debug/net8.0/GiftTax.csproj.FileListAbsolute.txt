@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\GiftTax\GiftTax\bin\Debug\net8.0\GiftTax.exe
+C:\Users\cbrow\source\repos\GiftTax\GiftTax\bin\Debug\net8.0\GiftTax.deps.json
+C:\Users\cbrow\source\repos\GiftTax\GiftTax\bin\Debug\net8.0\GiftTax.runtimeconfig.json
+C:\Users\cbrow\source\repos\GiftTax\GiftTax\bin\Debug\net8.0\GiftTax.dll
+C:\Users\cbrow\source\repos\GiftTax\GiftTax\bin\Debug\net8.0\GiftTax.pdb
+C:\Users\cbrow\source\repos\GiftTax\GiftTax\obj\Debug\net8.0\GiftTax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\GiftTax\GiftTax\obj\Debug\net8.0\GiftTax.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\GiftTax\GiftTax\obj\Debug\net8.0\GiftTax.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\GiftTax\GiftTax\obj\Debug\net8.0\GiftTax.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\GiftTax\GiftTax\obj\Debug\net8.0\GiftTax.sourcelink.json
+C:\Users\cbrow\source\repos\GiftTax\GiftTax\obj\Debug\net8.0\GiftTax.dll
+C:\Users\cbrow\source\repos\GiftTax\GiftTax\obj\Debug\net8.0\refint\GiftTax.dll
+C:\Users\cbrow\source\repos\GiftTax\GiftTax\obj\Debug\net8.0\GiftTax.pdb
+C:\Users\cbrow\source\repos\GiftTax\GiftTax\obj\Debug\net8.0\GiftTax.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\GiftTax\GiftTax\obj\Debug\net8.0\ref\GiftTax.dll

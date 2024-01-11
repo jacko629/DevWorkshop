@@ -1,0 +1,14 @@
+C:\Users\cbrow\source\repos\null\null\bin\Debug\net8.0\variableHomework.exe
+C:\Users\cbrow\source\repos\null\null\bin\Debug\net8.0\variableHomework.deps.json
+C:\Users\cbrow\source\repos\null\null\bin\Debug\net8.0\variableHomework.runtimeconfig.json
+C:\Users\cbrow\source\repos\null\null\bin\Debug\net8.0\variableHomework.dll
+C:\Users\cbrow\source\repos\null\null\bin\Debug\net8.0\variableHomework.pdb
+C:\Users\cbrow\source\repos\null\null\obj\Debug\net8.0\variableHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\null\null\obj\Debug\net8.0\variableHomework.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\null\null\obj\Debug\net8.0\variableHomework.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\null\null\obj\Debug\net8.0\variableHomework.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\null\null\obj\Debug\net8.0\variableHomework.dll
+C:\Users\cbrow\source\repos\null\null\obj\Debug\net8.0\refint\variableHomework.dll
+C:\Users\cbrow\source\repos\null\null\obj\Debug\net8.0\variableHomework.pdb
+C:\Users\cbrow\source\repos\null\null\obj\Debug\net8.0\variableHomework.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\null\null\obj\Debug\net8.0\ref\variableHomework.dll

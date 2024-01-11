@@ -1,0 +1,14 @@
+C:\Users\cbrow\source\repos\Modulo\Modulo\bin\Debug\net8.0\Modulo.exe
+C:\Users\cbrow\source\repos\Modulo\Modulo\bin\Debug\net8.0\Modulo.deps.json
+C:\Users\cbrow\source\repos\Modulo\Modulo\bin\Debug\net8.0\Modulo.runtimeconfig.json
+C:\Users\cbrow\source\repos\Modulo\Modulo\bin\Debug\net8.0\Modulo.dll
+C:\Users\cbrow\source\repos\Modulo\Modulo\bin\Debug\net8.0\Modulo.pdb
+C:\Users\cbrow\source\repos\Modulo\Modulo\obj\Debug\net8.0\Modulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\Modulo\Modulo\obj\Debug\net8.0\Modulo.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\Modulo\Modulo\obj\Debug\net8.0\Modulo.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\Modulo\Modulo\obj\Debug\net8.0\Modulo.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\Modulo\Modulo\obj\Debug\net8.0\Modulo.dll
+C:\Users\cbrow\source\repos\Modulo\Modulo\obj\Debug\net8.0\refint\Modulo.dll
+C:\Users\cbrow\source\repos\Modulo\Modulo\obj\Debug\net8.0\Modulo.pdb
+C:\Users\cbrow\source\repos\Modulo\Modulo\obj\Debug\net8.0\Modulo.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\Modulo\Modulo\obj\Debug\net8.0\ref\Modulo.dll

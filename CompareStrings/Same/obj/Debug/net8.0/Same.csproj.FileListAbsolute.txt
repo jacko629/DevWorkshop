@@ -1,0 +1,14 @@
+C:\Users\cbrow\source\repos\CompareStrings\Same\bin\Debug\net8.0\Same.exe
+C:\Users\cbrow\source\repos\CompareStrings\Same\bin\Debug\net8.0\Same.deps.json
+C:\Users\cbrow\source\repos\CompareStrings\Same\bin\Debug\net8.0\Same.runtimeconfig.json
+C:\Users\cbrow\source\repos\CompareStrings\Same\bin\Debug\net8.0\Same.dll
+C:\Users\cbrow\source\repos\CompareStrings\Same\bin\Debug\net8.0\Same.pdb
+C:\Users\cbrow\source\repos\CompareStrings\Same\obj\Debug\net8.0\Same.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\CompareStrings\Same\obj\Debug\net8.0\Same.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\CompareStrings\Same\obj\Debug\net8.0\Same.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\CompareStrings\Same\obj\Debug\net8.0\Same.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\CompareStrings\Same\obj\Debug\net8.0\Same.dll
+C:\Users\cbrow\source\repos\CompareStrings\Same\obj\Debug\net8.0\refint\Same.dll
+C:\Users\cbrow\source\repos\CompareStrings\Same\obj\Debug\net8.0\Same.pdb
+C:\Users\cbrow\source\repos\CompareStrings\Same\obj\Debug\net8.0\Same.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\CompareStrings\Same\obj\Debug\net8.0\ref\Same.dll

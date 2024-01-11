@@ -1,0 +1,14 @@
+C:\Users\cbrow\source\repos\CompareStrings\CompareStrings\bin\Debug\net8.0\CompareStrings.exe
+C:\Users\cbrow\source\repos\CompareStrings\CompareStrings\bin\Debug\net8.0\CompareStrings.deps.json
+C:\Users\cbrow\source\repos\CompareStrings\CompareStrings\bin\Debug\net8.0\CompareStrings.runtimeconfig.json
+C:\Users\cbrow\source\repos\CompareStrings\CompareStrings\bin\Debug\net8.0\CompareStrings.dll
+C:\Users\cbrow\source\repos\CompareStrings\CompareStrings\bin\Debug\net8.0\CompareStrings.pdb
+C:\Users\cbrow\source\repos\CompareStrings\CompareStrings\obj\Debug\net8.0\CompareStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\CompareStrings\CompareStrings\obj\Debug\net8.0\CompareStrings.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\CompareStrings\CompareStrings\obj\Debug\net8.0\CompareStrings.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\CompareStrings\CompareStrings\obj\Debug\net8.0\CompareStrings.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\CompareStrings\CompareStrings\obj\Debug\net8.0\CompareStrings.dll
+C:\Users\cbrow\source\repos\CompareStrings\CompareStrings\obj\Debug\net8.0\refint\CompareStrings.dll
+C:\Users\cbrow\source\repos\CompareStrings\CompareStrings\obj\Debug\net8.0\CompareStrings.pdb
+C:\Users\cbrow\source\repos\CompareStrings\CompareStrings\obj\Debug\net8.0\CompareStrings.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\CompareStrings\CompareStrings\obj\Debug\net8.0\ref\CompareStrings.dll

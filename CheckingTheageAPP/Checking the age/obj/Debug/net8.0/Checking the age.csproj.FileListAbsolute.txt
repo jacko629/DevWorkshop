@@ -1,0 +1,14 @@
+C:\Users\cbrow\source\repos\Checking the ageAPP\Checking the age\obj\Debug\net8.0\Checking the age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\Checking the ageAPP\Checking the age\obj\Debug\net8.0\Checking the age.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\Checking the ageAPP\Checking the age\obj\Debug\net8.0\Checking the age.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\Checking the ageAPP\Checking the age\obj\Debug\net8.0\Checking the age.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\Checking the ageAPP\Checking the age\bin\Debug\net8.0\Checking the age.exe
+C:\Users\cbrow\source\repos\Checking the ageAPP\Checking the age\bin\Debug\net8.0\Checking the age.deps.json
+C:\Users\cbrow\source\repos\Checking the ageAPP\Checking the age\bin\Debug\net8.0\Checking the age.runtimeconfig.json
+C:\Users\cbrow\source\repos\Checking the ageAPP\Checking the age\bin\Debug\net8.0\Checking the age.dll
+C:\Users\cbrow\source\repos\Checking the ageAPP\Checking the age\bin\Debug\net8.0\Checking the age.pdb
+C:\Users\cbrow\source\repos\Checking the ageAPP\Checking the age\obj\Debug\net8.0\Checking the age.dll
+C:\Users\cbrow\source\repos\Checking the ageAPP\Checking the age\obj\Debug\net8.0\refint\Checking the age.dll
+C:\Users\cbrow\source\repos\Checking the ageAPP\Checking the age\obj\Debug\net8.0\Checking the age.pdb
+C:\Users\cbrow\source\repos\Checking the ageAPP\Checking the age\obj\Debug\net8.0\Checking the age.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\Checking the ageAPP\Checking the age\obj\Debug\net8.0\ref\Checking the age.dll

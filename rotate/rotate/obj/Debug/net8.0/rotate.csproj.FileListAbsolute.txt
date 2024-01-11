@@ -1,0 +1,14 @@
+C:\Users\cbrow\source\repos\rotate\rotate\obj\Debug\net8.0\rotate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\rotate\rotate\obj\Debug\net8.0\rotate.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\rotate\rotate\obj\Debug\net8.0\rotate.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\rotate\rotate\obj\Debug\net8.0\rotate.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\rotate\rotate\bin\Debug\net8.0\rotate.exe
+C:\Users\cbrow\source\repos\rotate\rotate\bin\Debug\net8.0\rotate.deps.json
+C:\Users\cbrow\source\repos\rotate\rotate\bin\Debug\net8.0\rotate.runtimeconfig.json
+C:\Users\cbrow\source\repos\rotate\rotate\bin\Debug\net8.0\rotate.dll
+C:\Users\cbrow\source\repos\rotate\rotate\bin\Debug\net8.0\rotate.pdb
+C:\Users\cbrow\source\repos\rotate\rotate\obj\Debug\net8.0\rotate.dll
+C:\Users\cbrow\source\repos\rotate\rotate\obj\Debug\net8.0\refint\rotate.dll
+C:\Users\cbrow\source\repos\rotate\rotate\obj\Debug\net8.0\rotate.pdb
+C:\Users\cbrow\source\repos\rotate\rotate\obj\Debug\net8.0\rotate.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\rotate\rotate\obj\Debug\net8.0\ref\rotate.dll

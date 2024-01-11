@@ -1,0 +1,14 @@
+C:\Users\cbrow\source\repos\DifferntZTpeofInput\DifferntZTpeofInput\bin\Debug\net8.0\DifferntZTpeofInput.exe
+C:\Users\cbrow\source\repos\DifferntZTpeofInput\DifferntZTpeofInput\bin\Debug\net8.0\DifferntZTpeofInput.deps.json
+C:\Users\cbrow\source\repos\DifferntZTpeofInput\DifferntZTpeofInput\bin\Debug\net8.0\DifferntZTpeofInput.runtimeconfig.json
+C:\Users\cbrow\source\repos\DifferntZTpeofInput\DifferntZTpeofInput\bin\Debug\net8.0\DifferntZTpeofInput.dll
+C:\Users\cbrow\source\repos\DifferntZTpeofInput\DifferntZTpeofInput\bin\Debug\net8.0\DifferntZTpeofInput.pdb
+C:\Users\cbrow\source\repos\DifferntZTpeofInput\DifferntZTpeofInput\obj\Debug\net8.0\DifferntZTpeofInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\DifferntZTpeofInput\DifferntZTpeofInput\obj\Debug\net8.0\DifferntZTpeofInput.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\DifferntZTpeofInput\DifferntZTpeofInput\obj\Debug\net8.0\DifferntZTpeofInput.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\DifferntZTpeofInput\DifferntZTpeofInput\obj\Debug\net8.0\DifferntZTpeofInput.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\DifferntZTpeofInput\DifferntZTpeofInput\obj\Debug\net8.0\DifferntZTpeofInput.dll
+C:\Users\cbrow\source\repos\DifferntZTpeofInput\DifferntZTpeofInput\obj\Debug\net8.0\refint\DifferntZTpeofInput.dll
+C:\Users\cbrow\source\repos\DifferntZTpeofInput\DifferntZTpeofInput\obj\Debug\net8.0\DifferntZTpeofInput.pdb
+C:\Users\cbrow\source\repos\DifferntZTpeofInput\DifferntZTpeofInput\obj\Debug\net8.0\DifferntZTpeofInput.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\DifferntZTpeofInput\DifferntZTpeofInput\obj\Debug\net8.0\ref\DifferntZTpeofInput.dll

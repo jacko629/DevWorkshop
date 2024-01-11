@@ -1,0 +1,14 @@
+C:\Users\cbrow\source\repos\DateTimeVariablesApp\DateTimeVariables\bin\Debug\net8.0\DateTimeVariables.exe
+C:\Users\cbrow\source\repos\DateTimeVariablesApp\DateTimeVariables\bin\Debug\net8.0\DateTimeVariables.deps.json
+C:\Users\cbrow\source\repos\DateTimeVariablesApp\DateTimeVariables\bin\Debug\net8.0\DateTimeVariables.runtimeconfig.json
+C:\Users\cbrow\source\repos\DateTimeVariablesApp\DateTimeVariables\bin\Debug\net8.0\DateTimeVariables.dll
+C:\Users\cbrow\source\repos\DateTimeVariablesApp\DateTimeVariables\bin\Debug\net8.0\DateTimeVariables.pdb
+C:\Users\cbrow\source\repos\DateTimeVariablesApp\DateTimeVariables\obj\Debug\net8.0\DateTimeVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\DateTimeVariablesApp\DateTimeVariables\obj\Debug\net8.0\DateTimeVariables.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\DateTimeVariablesApp\DateTimeVariables\obj\Debug\net8.0\DateTimeVariables.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\DateTimeVariablesApp\DateTimeVariables\obj\Debug\net8.0\DateTimeVariables.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\DateTimeVariablesApp\DateTimeVariables\obj\Debug\net8.0\DateTimeVariables.dll
+C:\Users\cbrow\source\repos\DateTimeVariablesApp\DateTimeVariables\obj\Debug\net8.0\refint\DateTimeVariables.dll
+C:\Users\cbrow\source\repos\DateTimeVariablesApp\DateTimeVariables\obj\Debug\net8.0\DateTimeVariables.pdb
+C:\Users\cbrow\source\repos\DateTimeVariablesApp\DateTimeVariables\obj\Debug\net8.0\DateTimeVariables.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\DateTimeVariablesApp\DateTimeVariables\obj\Debug\net8.0\ref\DateTimeVariables.dll

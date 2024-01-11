@@ -1,0 +1,14 @@
+C:\Users\cbrow\source\repos\TypeConversionsApp\IsNumber\bin\Debug\net8.0\IsNumber.exe
+C:\Users\cbrow\source\repos\TypeConversionsApp\IsNumber\bin\Debug\net8.0\IsNumber.deps.json
+C:\Users\cbrow\source\repos\TypeConversionsApp\IsNumber\bin\Debug\net8.0\IsNumber.runtimeconfig.json
+C:\Users\cbrow\source\repos\TypeConversionsApp\IsNumber\bin\Debug\net8.0\IsNumber.dll
+C:\Users\cbrow\source\repos\TypeConversionsApp\IsNumber\bin\Debug\net8.0\IsNumber.pdb
+C:\Users\cbrow\source\repos\TypeConversionsApp\IsNumber\obj\Debug\net8.0\IsNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\TypeConversionsApp\IsNumber\obj\Debug\net8.0\IsNumber.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\TypeConversionsApp\IsNumber\obj\Debug\net8.0\IsNumber.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\TypeConversionsApp\IsNumber\obj\Debug\net8.0\IsNumber.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\TypeConversionsApp\IsNumber\obj\Debug\net8.0\IsNumber.dll
+C:\Users\cbrow\source\repos\TypeConversionsApp\IsNumber\obj\Debug\net8.0\refint\IsNumber.dll
+C:\Users\cbrow\source\repos\TypeConversionsApp\IsNumber\obj\Debug\net8.0\IsNumber.pdb
+C:\Users\cbrow\source\repos\TypeConversionsApp\IsNumber\obj\Debug\net8.0\IsNumber.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\TypeConversionsApp\IsNumber\obj\Debug\net8.0\ref\IsNumber.dll

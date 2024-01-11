@@ -1,0 +1,14 @@
+C:\Users\cbrow\source\repos\credit\credit\obj\Debug\net8.0\credit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\credit\credit\obj\Debug\net8.0\credit.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\credit\credit\obj\Debug\net8.0\credit.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\credit\credit\obj\Debug\net8.0\credit.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\credit\credit\bin\Debug\net8.0\credit.exe
+C:\Users\cbrow\source\repos\credit\credit\bin\Debug\net8.0\credit.deps.json
+C:\Users\cbrow\source\repos\credit\credit\bin\Debug\net8.0\credit.runtimeconfig.json
+C:\Users\cbrow\source\repos\credit\credit\bin\Debug\net8.0\credit.dll
+C:\Users\cbrow\source\repos\credit\credit\bin\Debug\net8.0\credit.pdb
+C:\Users\cbrow\source\repos\credit\credit\obj\Debug\net8.0\credit.dll
+C:\Users\cbrow\source\repos\credit\credit\obj\Debug\net8.0\refint\credit.dll
+C:\Users\cbrow\source\repos\credit\credit\obj\Debug\net8.0\credit.pdb
+C:\Users\cbrow\source\repos\credit\credit\obj\Debug\net8.0\credit.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\credit\credit\obj\Debug\net8.0\ref\credit.dll

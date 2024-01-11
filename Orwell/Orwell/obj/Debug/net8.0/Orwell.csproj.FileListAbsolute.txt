@@ -1,0 +1,14 @@
+C:\Users\cbrow\source\repos\Orwell\Orwell\bin\Debug\net8.0\Orwell.exe
+C:\Users\cbrow\source\repos\Orwell\Orwell\bin\Debug\net8.0\Orwell.deps.json
+C:\Users\cbrow\source\repos\Orwell\Orwell\bin\Debug\net8.0\Orwell.runtimeconfig.json
+C:\Users\cbrow\source\repos\Orwell\Orwell\bin\Debug\net8.0\Orwell.dll
+C:\Users\cbrow\source\repos\Orwell\Orwell\bin\Debug\net8.0\Orwell.pdb
+C:\Users\cbrow\source\repos\Orwell\Orwell\obj\Debug\net8.0\Orwell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\Orwell\Orwell\obj\Debug\net8.0\Orwell.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\Orwell\Orwell\obj\Debug\net8.0\Orwell.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\Orwell\Orwell\obj\Debug\net8.0\Orwell.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\Orwell\Orwell\obj\Debug\net8.0\Orwell.dll
+C:\Users\cbrow\source\repos\Orwell\Orwell\obj\Debug\net8.0\refint\Orwell.dll
+C:\Users\cbrow\source\repos\Orwell\Orwell\obj\Debug\net8.0\Orwell.pdb
+C:\Users\cbrow\source\repos\Orwell\Orwell\obj\Debug\net8.0\Orwell.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\Orwell\Orwell\obj\Debug\net8.0\ref\Orwell.dll

@@ -1,0 +1,14 @@
+C:\Users\cbrow\source\repos\TypeConversionsApp\TypeConversionsApp\bin\Debug\net8.0\TypeConversionsApp.exe
+C:\Users\cbrow\source\repos\TypeConversionsApp\TypeConversionsApp\bin\Debug\net8.0\TypeConversionsApp.deps.json
+C:\Users\cbrow\source\repos\TypeConversionsApp\TypeConversionsApp\bin\Debug\net8.0\TypeConversionsApp.runtimeconfig.json
+C:\Users\cbrow\source\repos\TypeConversionsApp\TypeConversionsApp\bin\Debug\net8.0\TypeConversionsApp.dll
+C:\Users\cbrow\source\repos\TypeConversionsApp\TypeConversionsApp\bin\Debug\net8.0\TypeConversionsApp.pdb
+C:\Users\cbrow\source\repos\TypeConversionsApp\TypeConversionsApp\obj\Debug\net8.0\TypeConversionsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\TypeConversionsApp\TypeConversionsApp\obj\Debug\net8.0\TypeConversionsApp.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\TypeConversionsApp\TypeConversionsApp\obj\Debug\net8.0\TypeConversionsApp.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\TypeConversionsApp\TypeConversionsApp\obj\Debug\net8.0\TypeConversionsApp.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\TypeConversionsApp\TypeConversionsApp\obj\Debug\net8.0\TypeConversionsApp.dll
+C:\Users\cbrow\source\repos\TypeConversionsApp\TypeConversionsApp\obj\Debug\net8.0\refint\TypeConversionsApp.dll
+C:\Users\cbrow\source\repos\TypeConversionsApp\TypeConversionsApp\obj\Debug\net8.0\TypeConversionsApp.pdb
+C:\Users\cbrow\source\repos\TypeConversionsApp\TypeConversionsApp\obj\Debug\net8.0\TypeConversionsApp.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\TypeConversionsApp\TypeConversionsApp\obj\Debug\net8.0\ref\TypeConversionsApp.dll

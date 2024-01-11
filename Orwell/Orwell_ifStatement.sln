@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orwell", "Orwell\Orwell.csproj", "{309C9104-E091-47B4-968D-D6CA8432DA83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{309C9104-E091-47B4-968D-D6CA8432DA83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{309C9104-E091-47B4-968D-D6CA8432DA83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{309C9104-E091-47B4-968D-D6CA8432DA83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{309C9104-E091-47B4-968D-D6CA8432DA83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {245E14C8-47F7-4ACF-9B78-65C5E6ACCDE8}
+	EndGlobalSection
+EndGlobal

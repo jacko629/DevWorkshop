@@ -1,0 +1,14 @@
+C:\Users\cbrow\source\repos\Adulthood\Adulthood\bin\Debug\net8.0\Adulthood.exe
+C:\Users\cbrow\source\repos\Adulthood\Adulthood\bin\Debug\net8.0\Adulthood.deps.json
+C:\Users\cbrow\source\repos\Adulthood\Adulthood\bin\Debug\net8.0\Adulthood.runtimeconfig.json
+C:\Users\cbrow\source\repos\Adulthood\Adulthood\bin\Debug\net8.0\Adulthood.dll
+C:\Users\cbrow\source\repos\Adulthood\Adulthood\bin\Debug\net8.0\Adulthood.pdb
+C:\Users\cbrow\source\repos\Adulthood\Adulthood\obj\Debug\net8.0\Adulthood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\Adulthood\Adulthood\obj\Debug\net8.0\Adulthood.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\Adulthood\Adulthood\obj\Debug\net8.0\Adulthood.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\Adulthood\Adulthood\obj\Debug\net8.0\Adulthood.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\Adulthood\Adulthood\obj\Debug\net8.0\Adulthood.dll
+C:\Users\cbrow\source\repos\Adulthood\Adulthood\obj\Debug\net8.0\refint\Adulthood.dll
+C:\Users\cbrow\source\repos\Adulthood\Adulthood\obj\Debug\net8.0\Adulthood.pdb
+C:\Users\cbrow\source\repos\Adulthood\Adulthood\obj\Debug\net8.0\Adulthood.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\Adulthood\Adulthood\obj\Debug\net8.0\ref\Adulthood.dll

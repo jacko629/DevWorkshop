@@ -1,0 +1,14 @@
+C:\Users\cbrow\source\repos\secondsinaDAy\secondsinaDAy\bin\Debug\net8.0\secondsinaDAy.exe
+C:\Users\cbrow\source\repos\secondsinaDAy\secondsinaDAy\bin\Debug\net8.0\secondsinaDAy.deps.json
+C:\Users\cbrow\source\repos\secondsinaDAy\secondsinaDAy\bin\Debug\net8.0\secondsinaDAy.runtimeconfig.json
+C:\Users\cbrow\source\repos\secondsinaDAy\secondsinaDAy\bin\Debug\net8.0\secondsinaDAy.dll
+C:\Users\cbrow\source\repos\secondsinaDAy\secondsinaDAy\bin\Debug\net8.0\secondsinaDAy.pdb
+C:\Users\cbrow\source\repos\secondsinaDAy\secondsinaDAy\obj\Debug\net8.0\secondsinaDAy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\secondsinaDAy\secondsinaDAy\obj\Debug\net8.0\secondsinaDAy.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\secondsinaDAy\secondsinaDAy\obj\Debug\net8.0\secondsinaDAy.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\secondsinaDAy\secondsinaDAy\obj\Debug\net8.0\secondsinaDAy.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\secondsinaDAy\secondsinaDAy\obj\Debug\net8.0\secondsinaDAy.dll
+C:\Users\cbrow\source\repos\secondsinaDAy\secondsinaDAy\obj\Debug\net8.0\refint\secondsinaDAy.dll
+C:\Users\cbrow\source\repos\secondsinaDAy\secondsinaDAy\obj\Debug\net8.0\secondsinaDAy.pdb
+C:\Users\cbrow\source\repos\secondsinaDAy\secondsinaDAy\obj\Debug\net8.0\secondsinaDAy.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\secondsinaDAy\secondsinaDAy\obj\Debug\net8.0\ref\secondsinaDAy.dll

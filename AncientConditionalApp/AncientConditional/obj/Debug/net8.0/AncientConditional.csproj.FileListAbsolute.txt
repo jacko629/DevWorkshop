@@ -1,0 +1,14 @@
+C:\Users\cbrow\source\repos\AncientConditionalApp\AncientConditional\obj\Debug\net8.0\AncientConditional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\AncientConditionalApp\AncientConditional\obj\Debug\net8.0\AncientConditional.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\AncientConditionalApp\AncientConditional\obj\Debug\net8.0\AncientConditional.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\AncientConditionalApp\AncientConditional\obj\Debug\net8.0\AncientConditional.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\AncientConditionalApp\AncientConditional\bin\Debug\net8.0\AncientConditional.exe
+C:\Users\cbrow\source\repos\AncientConditionalApp\AncientConditional\bin\Debug\net8.0\AncientConditional.deps.json
+C:\Users\cbrow\source\repos\AncientConditionalApp\AncientConditional\bin\Debug\net8.0\AncientConditional.runtimeconfig.json
+C:\Users\cbrow\source\repos\AncientConditionalApp\AncientConditional\bin\Debug\net8.0\AncientConditional.dll
+C:\Users\cbrow\source\repos\AncientConditionalApp\AncientConditional\bin\Debug\net8.0\AncientConditional.pdb
+C:\Users\cbrow\source\repos\AncientConditionalApp\AncientConditional\obj\Debug\net8.0\AncientConditional.dll
+C:\Users\cbrow\source\repos\AncientConditionalApp\AncientConditional\obj\Debug\net8.0\refint\AncientConditional.dll
+C:\Users\cbrow\source\repos\AncientConditionalApp\AncientConditional\obj\Debug\net8.0\AncientConditional.pdb
+C:\Users\cbrow\source\repos\AncientConditionalApp\AncientConditional\obj\Debug\net8.0\AncientConditional.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\AncientConditionalApp\AncientConditional\obj\Debug\net8.0\ref\AncientConditional.dll

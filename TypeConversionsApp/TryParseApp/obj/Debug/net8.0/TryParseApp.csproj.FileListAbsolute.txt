@@ -1,0 +1,14 @@
+C:\Users\cbrow\source\repos\TypeConversionsApp\TryParseApp\bin\Debug\net8.0\TryParseApp.exe
+C:\Users\cbrow\source\repos\TypeConversionsApp\TryParseApp\bin\Debug\net8.0\TryParseApp.deps.json
+C:\Users\cbrow\source\repos\TypeConversionsApp\TryParseApp\bin\Debug\net8.0\TryParseApp.runtimeconfig.json
+C:\Users\cbrow\source\repos\TypeConversionsApp\TryParseApp\bin\Debug\net8.0\TryParseApp.dll
+C:\Users\cbrow\source\repos\TypeConversionsApp\TryParseApp\bin\Debug\net8.0\TryParseApp.pdb
+C:\Users\cbrow\source\repos\TypeConversionsApp\TryParseApp\obj\Debug\net8.0\TryParseApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\TypeConversionsApp\TryParseApp\obj\Debug\net8.0\TryParseApp.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\TypeConversionsApp\TryParseApp\obj\Debug\net8.0\TryParseApp.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\TypeConversionsApp\TryParseApp\obj\Debug\net8.0\TryParseApp.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\TypeConversionsApp\TryParseApp\obj\Debug\net8.0\TryParseApp.dll
+C:\Users\cbrow\source\repos\TypeConversionsApp\TryParseApp\obj\Debug\net8.0\refint\TryParseApp.dll
+C:\Users\cbrow\source\repos\TypeConversionsApp\TryParseApp\obj\Debug\net8.0\TryParseApp.pdb
+C:\Users\cbrow\source\repos\TypeConversionsApp\TryParseApp\obj\Debug\net8.0\TryParseApp.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\TypeConversionsApp\TryParseApp\obj\Debug\net8.0\ref\TryParseApp.dll

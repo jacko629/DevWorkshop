@@ -1,0 +1,14 @@
+C:\Users\cbrow\source\repos\playersguideMath\playersguideMath\bin\Debug\net8.0\playersguideMath.exe
+C:\Users\cbrow\source\repos\playersguideMath\playersguideMath\bin\Debug\net8.0\playersguideMath.deps.json
+C:\Users\cbrow\source\repos\playersguideMath\playersguideMath\bin\Debug\net8.0\playersguideMath.runtimeconfig.json
+C:\Users\cbrow\source\repos\playersguideMath\playersguideMath\bin\Debug\net8.0\playersguideMath.dll
+C:\Users\cbrow\source\repos\playersguideMath\playersguideMath\bin\Debug\net8.0\playersguideMath.pdb
+C:\Users\cbrow\source\repos\playersguideMath\playersguideMath\obj\Debug\net8.0\playersguideMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\playersguideMath\playersguideMath\obj\Debug\net8.0\playersguideMath.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\playersguideMath\playersguideMath\obj\Debug\net8.0\playersguideMath.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\playersguideMath\playersguideMath\obj\Debug\net8.0\playersguideMath.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\playersguideMath\playersguideMath\obj\Debug\net8.0\playersguideMath.dll
+C:\Users\cbrow\source\repos\playersguideMath\playersguideMath\obj\Debug\net8.0\refint\playersguideMath.dll
+C:\Users\cbrow\source\repos\playersguideMath\playersguideMath\obj\Debug\net8.0\playersguideMath.pdb
+C:\Users\cbrow\source\repos\playersguideMath\playersguideMath\obj\Debug\net8.0\playersguideMath.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\playersguideMath\playersguideMath\obj\Debug\net8.0\ref\playersguideMath.dll

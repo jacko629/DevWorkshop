@@ -1,0 +1,14 @@
+C:\Users\cbrow\source\repos\intVariblesApp\Doubles\bin\Debug\net8.0\Doubles.exe
+C:\Users\cbrow\source\repos\intVariblesApp\Doubles\bin\Debug\net8.0\Doubles.deps.json
+C:\Users\cbrow\source\repos\intVariblesApp\Doubles\bin\Debug\net8.0\Doubles.runtimeconfig.json
+C:\Users\cbrow\source\repos\intVariblesApp\Doubles\bin\Debug\net8.0\Doubles.dll
+C:\Users\cbrow\source\repos\intVariblesApp\Doubles\bin\Debug\net8.0\Doubles.pdb
+C:\Users\cbrow\source\repos\intVariblesApp\Doubles\obj\Debug\net8.0\Doubles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\intVariblesApp\Doubles\obj\Debug\net8.0\Doubles.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\intVariblesApp\Doubles\obj\Debug\net8.0\Doubles.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\intVariblesApp\Doubles\obj\Debug\net8.0\Doubles.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\intVariblesApp\Doubles\obj\Debug\net8.0\Doubles.dll
+C:\Users\cbrow\source\repos\intVariblesApp\Doubles\obj\Debug\net8.0\refint\Doubles.dll
+C:\Users\cbrow\source\repos\intVariblesApp\Doubles\obj\Debug\net8.0\Doubles.pdb
+C:\Users\cbrow\source\repos\intVariblesApp\Doubles\obj\Debug\net8.0\Doubles.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\intVariblesApp\Doubles\obj\Debug\net8.0\ref\Doubles.dll

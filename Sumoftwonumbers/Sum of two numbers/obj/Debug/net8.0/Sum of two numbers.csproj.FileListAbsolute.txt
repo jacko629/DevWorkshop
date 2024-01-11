@@ -1,0 +1,14 @@
+C:\Users\cbrow\source\repos\Sum of two numbers\Sum of two numbers\bin\Debug\net8.0\Sum of two numbers.exe
+C:\Users\cbrow\source\repos\Sum of two numbers\Sum of two numbers\bin\Debug\net8.0\Sum of two numbers.deps.json
+C:\Users\cbrow\source\repos\Sum of two numbers\Sum of two numbers\bin\Debug\net8.0\Sum of two numbers.runtimeconfig.json
+C:\Users\cbrow\source\repos\Sum of two numbers\Sum of two numbers\bin\Debug\net8.0\Sum of two numbers.dll
+C:\Users\cbrow\source\repos\Sum of two numbers\Sum of two numbers\bin\Debug\net8.0\Sum of two numbers.pdb
+C:\Users\cbrow\source\repos\Sum of two numbers\Sum of two numbers\obj\Debug\net8.0\Sum of two numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\Sum of two numbers\Sum of two numbers\obj\Debug\net8.0\Sum of two numbers.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\Sum of two numbers\Sum of two numbers\obj\Debug\net8.0\Sum of two numbers.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\Sum of two numbers\Sum of two numbers\obj\Debug\net8.0\Sum of two numbers.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\Sum of two numbers\Sum of two numbers\obj\Debug\net8.0\Sum of two numbers.dll
+C:\Users\cbrow\source\repos\Sum of two numbers\Sum of two numbers\obj\Debug\net8.0\refint\Sum of two numbers.dll
+C:\Users\cbrow\source\repos\Sum of two numbers\Sum of two numbers\obj\Debug\net8.0\Sum of two numbers.pdb
+C:\Users\cbrow\source\repos\Sum of two numbers\Sum of two numbers\obj\Debug\net8.0\Sum of two numbers.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\Sum of two numbers\Sum of two numbers\obj\Debug\net8.0\ref\Sum of two numbers.dll

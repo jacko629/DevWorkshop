@@ -1,0 +1,14 @@
+C:\Users\cbrow\source\repos\mathAbsoluteApp\mathAbsolute\bin\Debug\net8.0\mathAbsolute.exe
+C:\Users\cbrow\source\repos\mathAbsoluteApp\mathAbsolute\bin\Debug\net8.0\mathAbsolute.deps.json
+C:\Users\cbrow\source\repos\mathAbsoluteApp\mathAbsolute\bin\Debug\net8.0\mathAbsolute.runtimeconfig.json
+C:\Users\cbrow\source\repos\mathAbsoluteApp\mathAbsolute\bin\Debug\net8.0\mathAbsolute.dll
+C:\Users\cbrow\source\repos\mathAbsoluteApp\mathAbsolute\bin\Debug\net8.0\mathAbsolute.pdb
+C:\Users\cbrow\source\repos\mathAbsoluteApp\mathAbsolute\obj\Debug\net8.0\mathAbsolute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\mathAbsoluteApp\mathAbsolute\obj\Debug\net8.0\mathAbsolute.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\mathAbsoluteApp\mathAbsolute\obj\Debug\net8.0\mathAbsolute.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\mathAbsoluteApp\mathAbsolute\obj\Debug\net8.0\mathAbsolute.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\mathAbsoluteApp\mathAbsolute\obj\Debug\net8.0\mathAbsolute.dll
+C:\Users\cbrow\source\repos\mathAbsoluteApp\mathAbsolute\obj\Debug\net8.0\refint\mathAbsolute.dll
+C:\Users\cbrow\source\repos\mathAbsoluteApp\mathAbsolute\obj\Debug\net8.0\mathAbsolute.pdb
+C:\Users\cbrow\source\repos\mathAbsoluteApp\mathAbsolute\obj\Debug\net8.0\mathAbsolute.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\mathAbsoluteApp\mathAbsolute\obj\Debug\net8.0\ref\mathAbsolute.dll

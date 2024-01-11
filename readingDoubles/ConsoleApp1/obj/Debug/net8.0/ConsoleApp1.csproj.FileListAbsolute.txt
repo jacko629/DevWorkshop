@@ -1,0 +1,14 @@
+C:\Users\cbrow\source\repos\reading doubles\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\cbrow\source\repos\reading doubles\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\cbrow\source\repos\reading doubles\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\cbrow\source\repos\reading doubles\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\cbrow\source\repos\reading doubles\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\cbrow\source\repos\reading doubles\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\reading doubles\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\reading doubles\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\reading doubles\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\reading doubles\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\cbrow\source\repos\reading doubles\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\cbrow\source\repos\reading doubles\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\cbrow\source\repos\reading doubles\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\reading doubles\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll

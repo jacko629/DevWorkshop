@@ -1,0 +1,14 @@
+C:\Users\cbrow\source\repos\Grades and Points\Grades and Points\bin\Debug\net8.0\Grades and Points.exe
+C:\Users\cbrow\source\repos\Grades and Points\Grades and Points\bin\Debug\net8.0\Grades and Points.deps.json
+C:\Users\cbrow\source\repos\Grades and Points\Grades and Points\bin\Debug\net8.0\Grades and Points.runtimeconfig.json
+C:\Users\cbrow\source\repos\Grades and Points\Grades and Points\bin\Debug\net8.0\Grades and Points.dll
+C:\Users\cbrow\source\repos\Grades and Points\Grades and Points\bin\Debug\net8.0\Grades and Points.pdb
+C:\Users\cbrow\source\repos\Grades and Points\Grades and Points\obj\Debug\net8.0\Grades and Points.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\Grades and Points\Grades and Points\obj\Debug\net8.0\Grades and Points.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\Grades and Points\Grades and Points\obj\Debug\net8.0\Grades and Points.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\Grades and Points\Grades and Points\obj\Debug\net8.0\Grades and Points.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\Grades and Points\Grades and Points\obj\Debug\net8.0\Grades and Points.dll
+C:\Users\cbrow\source\repos\Grades and Points\Grades and Points\obj\Debug\net8.0\refint\Grades and Points.dll
+C:\Users\cbrow\source\repos\Grades and Points\Grades and Points\obj\Debug\net8.0\Grades and Points.pdb
+C:\Users\cbrow\source\repos\Grades and Points\Grades and Points\obj\Debug\net8.0\Grades and Points.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\Grades and Points\Grades and Points\obj\Debug\net8.0\ref\Grades and Points.dll

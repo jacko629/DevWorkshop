@@ -1,0 +1,14 @@
+C:\Users\cbrow\source\repos\nullVariableApp\nullVariable\bin\Debug\net8.0\nullVariable.exe
+C:\Users\cbrow\source\repos\nullVariableApp\nullVariable\bin\Debug\net8.0\nullVariable.deps.json
+C:\Users\cbrow\source\repos\nullVariableApp\nullVariable\bin\Debug\net8.0\nullVariable.runtimeconfig.json
+C:\Users\cbrow\source\repos\nullVariableApp\nullVariable\bin\Debug\net8.0\nullVariable.dll
+C:\Users\cbrow\source\repos\nullVariableApp\nullVariable\bin\Debug\net8.0\nullVariable.pdb
+C:\Users\cbrow\source\repos\nullVariableApp\nullVariable\obj\Debug\net8.0\nullVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\nullVariableApp\nullVariable\obj\Debug\net8.0\nullVariable.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\nullVariableApp\nullVariable\obj\Debug\net8.0\nullVariable.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\nullVariableApp\nullVariable\obj\Debug\net8.0\nullVariable.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\nullVariableApp\nullVariable\obj\Debug\net8.0\nullVariable.dll
+C:\Users\cbrow\source\repos\nullVariableApp\nullVariable\obj\Debug\net8.0\refint\nullVariable.dll
+C:\Users\cbrow\source\repos\nullVariableApp\nullVariable\obj\Debug\net8.0\nullVariable.pdb
+C:\Users\cbrow\source\repos\nullVariableApp\nullVariable\obj\Debug\net8.0\nullVariable.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\nullVariableApp\nullVariable\obj\Debug\net8.0\ref\nullVariable.dll

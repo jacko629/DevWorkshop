@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reading doubles", "reading doubles\reading doubles.csproj", "{B9579E00-C17B-42EB-ACD7-192F48A90FEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{987581A8-FE78-4633-BA0A-76DBC4E2B84E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9579E00-C17B-42EB-ACD7-192F48A90FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9579E00-C17B-42EB-ACD7-192F48A90FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9579E00-C17B-42EB-ACD7-192F48A90FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9579E00-C17B-42EB-ACD7-192F48A90FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{987581A8-FE78-4633-BA0A-76DBC4E2B84E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{987581A8-FE78-4633-BA0A-76DBC4E2B84E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{987581A8-FE78-4633-BA0A-76DBC4E2B84E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{987581A8-FE78-4633-BA0A-76DBC4E2B84E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {226923DE-8875-4D18-9021-3BE0035D3999}
+	EndGlobalSection
+EndGlobal

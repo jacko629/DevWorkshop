@@ -1,0 +1,14 @@
+C:\Users\cbrow\source\repos\PositivityConditionalApp\Positivity\bin\Debug\net8.0\Positivity.exe
+C:\Users\cbrow\source\repos\PositivityConditionalApp\Positivity\bin\Debug\net8.0\Positivity.deps.json
+C:\Users\cbrow\source\repos\PositivityConditionalApp\Positivity\bin\Debug\net8.0\Positivity.runtimeconfig.json
+C:\Users\cbrow\source\repos\PositivityConditionalApp\Positivity\bin\Debug\net8.0\Positivity.dll
+C:\Users\cbrow\source\repos\PositivityConditionalApp\Positivity\bin\Debug\net8.0\Positivity.pdb
+C:\Users\cbrow\source\repos\PositivityConditionalApp\Positivity\obj\Debug\net8.0\Positivity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\PositivityConditionalApp\Positivity\obj\Debug\net8.0\Positivity.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\PositivityConditionalApp\Positivity\obj\Debug\net8.0\Positivity.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\PositivityConditionalApp\Positivity\obj\Debug\net8.0\Positivity.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\PositivityConditionalApp\Positivity\obj\Debug\net8.0\Positivity.dll
+C:\Users\cbrow\source\repos\PositivityConditionalApp\Positivity\obj\Debug\net8.0\refint\Positivity.dll
+C:\Users\cbrow\source\repos\PositivityConditionalApp\Positivity\obj\Debug\net8.0\Positivity.pdb
+C:\Users\cbrow\source\repos\PositivityConditionalApp\Positivity\obj\Debug\net8.0\Positivity.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\PositivityConditionalApp\Positivity\obj\Debug\net8.0\ref\Positivity.dll

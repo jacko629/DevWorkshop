@@ -1,0 +1,14 @@
+C:\Users\cbrow\source\repos\StringVariablesProject\StringReturn\bin\Debug\net8.0\StringReturn.exe
+C:\Users\cbrow\source\repos\StringVariablesProject\StringReturn\bin\Debug\net8.0\StringReturn.deps.json
+C:\Users\cbrow\source\repos\StringVariablesProject\StringReturn\bin\Debug\net8.0\StringReturn.runtimeconfig.json
+C:\Users\cbrow\source\repos\StringVariablesProject\StringReturn\bin\Debug\net8.0\StringReturn.dll
+C:\Users\cbrow\source\repos\StringVariablesProject\StringReturn\bin\Debug\net8.0\StringReturn.pdb
+C:\Users\cbrow\source\repos\StringVariablesProject\StringReturn\obj\Debug\net8.0\StringReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\StringVariablesProject\StringReturn\obj\Debug\net8.0\StringReturn.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\StringVariablesProject\StringReturn\obj\Debug\net8.0\StringReturn.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\StringVariablesProject\StringReturn\obj\Debug\net8.0\StringReturn.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\StringVariablesProject\StringReturn\obj\Debug\net8.0\StringReturn.dll
+C:\Users\cbrow\source\repos\StringVariablesProject\StringReturn\obj\Debug\net8.0\refint\StringReturn.dll
+C:\Users\cbrow\source\repos\StringVariablesProject\StringReturn\obj\Debug\net8.0\StringReturn.pdb
+C:\Users\cbrow\source\repos\StringVariablesProject\StringReturn\obj\Debug\net8.0\StringReturn.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\StringVariablesProject\StringReturn\obj\Debug\net8.0\ref\StringReturn.dll

@@ -1,0 +1,14 @@
+C:\Users\cbrow\source\repos\mathAbsoluteApp\mathPow\bin\Debug\net8.0\mathPow.exe
+C:\Users\cbrow\source\repos\mathAbsoluteApp\mathPow\bin\Debug\net8.0\mathPow.deps.json
+C:\Users\cbrow\source\repos\mathAbsoluteApp\mathPow\bin\Debug\net8.0\mathPow.runtimeconfig.json
+C:\Users\cbrow\source\repos\mathAbsoluteApp\mathPow\bin\Debug\net8.0\mathPow.dll
+C:\Users\cbrow\source\repos\mathAbsoluteApp\mathPow\bin\Debug\net8.0\mathPow.pdb
+C:\Users\cbrow\source\repos\mathAbsoluteApp\mathPow\obj\Debug\net8.0\mathPow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\mathAbsoluteApp\mathPow\obj\Debug\net8.0\mathPow.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\mathAbsoluteApp\mathPow\obj\Debug\net8.0\mathPow.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\mathAbsoluteApp\mathPow\obj\Debug\net8.0\mathPow.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\mathAbsoluteApp\mathPow\obj\Debug\net8.0\mathPow.dll
+C:\Users\cbrow\source\repos\mathAbsoluteApp\mathPow\obj\Debug\net8.0\refint\mathPow.dll
+C:\Users\cbrow\source\repos\mathAbsoluteApp\mathPow\obj\Debug\net8.0\mathPow.pdb
+C:\Users\cbrow\source\repos\mathAbsoluteApp\mathPow\obj\Debug\net8.0\mathPow.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\mathAbsoluteApp\mathPow\obj\Debug\net8.0\ref\mathPow.dll

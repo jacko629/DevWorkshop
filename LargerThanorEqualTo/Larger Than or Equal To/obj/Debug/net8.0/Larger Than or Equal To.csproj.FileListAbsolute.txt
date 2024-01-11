@@ -1,0 +1,14 @@
+C:\Users\cbrow\source\repos\Larger Than or Equal To\Larger Than or Equal To\bin\Debug\net8.0\Larger Than or Equal To.exe
+C:\Users\cbrow\source\repos\Larger Than or Equal To\Larger Than or Equal To\bin\Debug\net8.0\Larger Than or Equal To.deps.json
+C:\Users\cbrow\source\repos\Larger Than or Equal To\Larger Than or Equal To\bin\Debug\net8.0\Larger Than or Equal To.runtimeconfig.json
+C:\Users\cbrow\source\repos\Larger Than or Equal To\Larger Than or Equal To\bin\Debug\net8.0\Larger Than or Equal To.dll
+C:\Users\cbrow\source\repos\Larger Than or Equal To\Larger Than or Equal To\bin\Debug\net8.0\Larger Than or Equal To.pdb
+C:\Users\cbrow\source\repos\Larger Than or Equal To\Larger Than or Equal To\obj\Debug\net8.0\Larger Than or Equal To.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\Larger Than or Equal To\Larger Than or Equal To\obj\Debug\net8.0\Larger Than or Equal To.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\Larger Than or Equal To\Larger Than or Equal To\obj\Debug\net8.0\Larger Than or Equal To.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\Larger Than or Equal To\Larger Than or Equal To\obj\Debug\net8.0\Larger Than or Equal To.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\Larger Than or Equal To\Larger Than or Equal To\obj\Debug\net8.0\Larger Than or Equal To.dll
+C:\Users\cbrow\source\repos\Larger Than or Equal To\Larger Than or Equal To\obj\Debug\net8.0\refint\Larger Than or Equal To.dll
+C:\Users\cbrow\source\repos\Larger Than or Equal To\Larger Than or Equal To\obj\Debug\net8.0\Larger Than or Equal To.pdb
+C:\Users\cbrow\source\repos\Larger Than or Equal To\Larger Than or Equal To\obj\Debug\net8.0\Larger Than or Equal To.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\Larger Than or Equal To\Larger Than or Equal To\obj\Debug\net8.0\ref\Larger Than or Equal To.dll

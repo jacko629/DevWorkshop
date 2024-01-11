@@ -1,0 +1,14 @@
+C:\Users\cbrow\source\repos\StringVariablesProject\StringVariablesProject\bin\Debug\net8.0\StringVariablesProject.exe
+C:\Users\cbrow\source\repos\StringVariablesProject\StringVariablesProject\bin\Debug\net8.0\StringVariablesProject.deps.json
+C:\Users\cbrow\source\repos\StringVariablesProject\StringVariablesProject\bin\Debug\net8.0\StringVariablesProject.runtimeconfig.json
+C:\Users\cbrow\source\repos\StringVariablesProject\StringVariablesProject\bin\Debug\net8.0\StringVariablesProject.dll
+C:\Users\cbrow\source\repos\StringVariablesProject\StringVariablesProject\bin\Debug\net8.0\StringVariablesProject.pdb
+C:\Users\cbrow\source\repos\StringVariablesProject\StringVariablesProject\obj\Debug\net8.0\StringVariablesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\StringVariablesProject\StringVariablesProject\obj\Debug\net8.0\StringVariablesProject.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\StringVariablesProject\StringVariablesProject\obj\Debug\net8.0\StringVariablesProject.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\StringVariablesProject\StringVariablesProject\obj\Debug\net8.0\StringVariablesProject.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\StringVariablesProject\StringVariablesProject\obj\Debug\net8.0\StringVariablesProject.dll
+C:\Users\cbrow\source\repos\StringVariablesProject\StringVariablesProject\obj\Debug\net8.0\refint\StringVariablesProject.dll
+C:\Users\cbrow\source\repos\StringVariablesProject\StringVariablesProject\obj\Debug\net8.0\StringVariablesProject.pdb
+C:\Users\cbrow\source\repos\StringVariablesProject\StringVariablesProject\obj\Debug\net8.0\StringVariablesProject.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\StringVariablesProject\StringVariablesProject\obj\Debug\net8.0\ref\StringVariablesProject.dll

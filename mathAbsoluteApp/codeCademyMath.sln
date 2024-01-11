@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mathAbsolute", "mathAbsolute\mathAbsolute.csproj", "{100A54AC-DAF2-4A4C-A779-8FAEC96FD14B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mathPow", "mathPow\mathPow.csproj", "{D1594C31-485D-46A5-AD3D-B65BB3B38CFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{100A54AC-DAF2-4A4C-A779-8FAEC96FD14B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{100A54AC-DAF2-4A4C-A779-8FAEC96FD14B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{100A54AC-DAF2-4A4C-A779-8FAEC96FD14B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{100A54AC-DAF2-4A4C-A779-8FAEC96FD14B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1594C31-485D-46A5-AD3D-B65BB3B38CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1594C31-485D-46A5-AD3D-B65BB3B38CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1594C31-485D-46A5-AD3D-B65BB3B38CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1594C31-485D-46A5-AD3D-B65BB3B38CFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E440E9BF-F34A-447B-9344-2A179A4A77E6}
+	EndGlobalSection
+EndGlobal

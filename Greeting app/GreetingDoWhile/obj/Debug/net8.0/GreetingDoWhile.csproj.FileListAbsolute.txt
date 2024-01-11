@@ -1,0 +1,14 @@
+C:\Users\cbrow\source\repos\Greeting app\GreetingDoWhile\bin\Debug\net8.0\GreetingDoWhile.exe
+C:\Users\cbrow\source\repos\Greeting app\GreetingDoWhile\bin\Debug\net8.0\GreetingDoWhile.deps.json
+C:\Users\cbrow\source\repos\Greeting app\GreetingDoWhile\bin\Debug\net8.0\GreetingDoWhile.runtimeconfig.json
+C:\Users\cbrow\source\repos\Greeting app\GreetingDoWhile\bin\Debug\net8.0\GreetingDoWhile.dll
+C:\Users\cbrow\source\repos\Greeting app\GreetingDoWhile\bin\Debug\net8.0\GreetingDoWhile.pdb
+C:\Users\cbrow\source\repos\Greeting app\GreetingDoWhile\obj\Debug\net8.0\GreetingDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\Greeting app\GreetingDoWhile\obj\Debug\net8.0\GreetingDoWhile.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\Greeting app\GreetingDoWhile\obj\Debug\net8.0\GreetingDoWhile.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\Greeting app\GreetingDoWhile\obj\Debug\net8.0\GreetingDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\Greeting app\GreetingDoWhile\obj\Debug\net8.0\GreetingDoWhile.dll
+C:\Users\cbrow\source\repos\Greeting app\GreetingDoWhile\obj\Debug\net8.0\refint\GreetingDoWhile.dll
+C:\Users\cbrow\source\repos\Greeting app\GreetingDoWhile\obj\Debug\net8.0\GreetingDoWhile.pdb
+C:\Users\cbrow\source\repos\Greeting app\GreetingDoWhile\obj\Debug\net8.0\GreetingDoWhile.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\Greeting app\GreetingDoWhile\obj\Debug\net8.0\ref\GreetingDoWhile.dll

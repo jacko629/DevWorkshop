@@ -1,0 +1,14 @@
+C:\Users\cbrow\source\repos\intVariblesApp\intVariblesApp\bin\Debug\net8.0\intVariblesApp.exe
+C:\Users\cbrow\source\repos\intVariblesApp\intVariblesApp\bin\Debug\net8.0\intVariblesApp.deps.json
+C:\Users\cbrow\source\repos\intVariblesApp\intVariblesApp\bin\Debug\net8.0\intVariblesApp.runtimeconfig.json
+C:\Users\cbrow\source\repos\intVariblesApp\intVariblesApp\bin\Debug\net8.0\intVariblesApp.dll
+C:\Users\cbrow\source\repos\intVariblesApp\intVariblesApp\bin\Debug\net8.0\intVariblesApp.pdb
+C:\Users\cbrow\source\repos\intVariblesApp\intVariblesApp\obj\Debug\net8.0\intVariblesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\intVariblesApp\intVariblesApp\obj\Debug\net8.0\intVariblesApp.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\intVariblesApp\intVariblesApp\obj\Debug\net8.0\intVariblesApp.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\intVariblesApp\intVariblesApp\obj\Debug\net8.0\intVariblesApp.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\intVariblesApp\intVariblesApp\obj\Debug\net8.0\intVariblesApp.dll
+C:\Users\cbrow\source\repos\intVariblesApp\intVariblesApp\obj\Debug\net8.0\refint\intVariblesApp.dll
+C:\Users\cbrow\source\repos\intVariblesApp\intVariblesApp\obj\Debug\net8.0\intVariblesApp.pdb
+C:\Users\cbrow\source\repos\intVariblesApp\intVariblesApp\obj\Debug\net8.0\intVariblesApp.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\intVariblesApp\intVariblesApp\obj\Debug\net8.0\ref\intVariblesApp.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greeting app", "Greeting app\Greeting app.csproj", "{AD72508D-45C4-4FF1-B222-5D2390AEC19B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreetingDoWhile", "GreetingDoWhile\GreetingDoWhile.csproj", "{F31CC160-9333-4F29-9923-E6D993EBCB48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD72508D-45C4-4FF1-B222-5D2390AEC19B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD72508D-45C4-4FF1-B222-5D2390AEC19B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD72508D-45C4-4FF1-B222-5D2390AEC19B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD72508D-45C4-4FF1-B222-5D2390AEC19B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F31CC160-9333-4F29-9923-E6D993EBCB48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F31CC160-9333-4F29-9923-E6D993EBCB48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F31CC160-9333-4F29-9923-E6D993EBCB48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F31CC160-9333-4F29-9923-E6D993EBCB48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52AFD60C-3043-4D33-B353-04C70F14D592}
+	EndGlobalSection
+EndGlobal

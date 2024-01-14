@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\OnlyPositives\OnlyPositives\bin\Debug\net8.0\OnlyPositives.exe
+C:\Users\cbrow\source\repos\OnlyPositives\OnlyPositives\bin\Debug\net8.0\OnlyPositives.deps.json
+C:\Users\cbrow\source\repos\OnlyPositives\OnlyPositives\bin\Debug\net8.0\OnlyPositives.runtimeconfig.json
+C:\Users\cbrow\source\repos\OnlyPositives\OnlyPositives\bin\Debug\net8.0\OnlyPositives.dll
+C:\Users\cbrow\source\repos\OnlyPositives\OnlyPositives\bin\Debug\net8.0\OnlyPositives.pdb
+C:\Users\cbrow\source\repos\OnlyPositives\OnlyPositives\obj\Debug\net8.0\OnlyPositives.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\OnlyPositives\OnlyPositives\obj\Debug\net8.0\OnlyPositives.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\OnlyPositives\OnlyPositives\obj\Debug\net8.0\OnlyPositives.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\OnlyPositives\OnlyPositives\obj\Debug\net8.0\OnlyPositives.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\OnlyPositives\OnlyPositives\obj\Debug\net8.0\OnlyPositives.sourcelink.json
+C:\Users\cbrow\source\repos\OnlyPositives\OnlyPositives\obj\Debug\net8.0\OnlyPositives.dll
+C:\Users\cbrow\source\repos\OnlyPositives\OnlyPositives\obj\Debug\net8.0\refint\OnlyPositives.dll
+C:\Users\cbrow\source\repos\OnlyPositives\OnlyPositives\obj\Debug\net8.0\OnlyPositives.pdb
+C:\Users\cbrow\source\repos\OnlyPositives\OnlyPositives\obj\Debug\net8.0\OnlyPositives.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\OnlyPositives\OnlyPositives\obj\Debug\net8.0\ref\OnlyPositives.dll

@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\age\age\bin\Debug\net8.0\age.exe
+C:\Users\cbrow\source\repos\age\age\bin\Debug\net8.0\age.deps.json
+C:\Users\cbrow\source\repos\age\age\bin\Debug\net8.0\age.runtimeconfig.json
+C:\Users\cbrow\source\repos\age\age\bin\Debug\net8.0\age.dll
+C:\Users\cbrow\source\repos\age\age\bin\Debug\net8.0\age.pdb
+C:\Users\cbrow\source\repos\age\age\obj\Debug\net8.0\age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\age\age\obj\Debug\net8.0\age.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\age\age\obj\Debug\net8.0\age.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\age\age\obj\Debug\net8.0\age.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\age\age\obj\Debug\net8.0\age.sourcelink.json
+C:\Users\cbrow\source\repos\age\age\obj\Debug\net8.0\age.dll
+C:\Users\cbrow\source\repos\age\age\obj\Debug\net8.0\refint\age.dll
+C:\Users\cbrow\source\repos\age\age\obj\Debug\net8.0\age.pdb
+C:\Users\cbrow\source\repos\age\age\obj\Debug\net8.0\age.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\age\age\obj\Debug\net8.0\ref\age.dll

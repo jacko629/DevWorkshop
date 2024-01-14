@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\whiletrue\whiletrue\bin\Debug\net8.0\whiletrue.exe
+C:\Users\cbrow\source\repos\whiletrue\whiletrue\bin\Debug\net8.0\whiletrue.deps.json
+C:\Users\cbrow\source\repos\whiletrue\whiletrue\bin\Debug\net8.0\whiletrue.runtimeconfig.json
+C:\Users\cbrow\source\repos\whiletrue\whiletrue\bin\Debug\net8.0\whiletrue.dll
+C:\Users\cbrow\source\repos\whiletrue\whiletrue\bin\Debug\net8.0\whiletrue.pdb
+C:\Users\cbrow\source\repos\whiletrue\whiletrue\obj\Debug\net8.0\whiletrue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\whiletrue\whiletrue\obj\Debug\net8.0\whiletrue.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\whiletrue\whiletrue\obj\Debug\net8.0\whiletrue.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\whiletrue\whiletrue\obj\Debug\net8.0\whiletrue.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\whiletrue\whiletrue\obj\Debug\net8.0\whiletrue.sourcelink.json
+C:\Users\cbrow\source\repos\whiletrue\whiletrue\obj\Debug\net8.0\whiletrue.dll
+C:\Users\cbrow\source\repos\whiletrue\whiletrue\obj\Debug\net8.0\refint\whiletrue.dll
+C:\Users\cbrow\source\repos\whiletrue\whiletrue\obj\Debug\net8.0\whiletrue.pdb
+C:\Users\cbrow\source\repos\whiletrue\whiletrue\obj\Debug\net8.0\whiletrue.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\whiletrue\whiletrue\obj\Debug\net8.0\ref\whiletrue.dll

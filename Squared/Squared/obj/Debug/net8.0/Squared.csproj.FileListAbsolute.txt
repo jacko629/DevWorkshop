@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\Squared\Squared\bin\Debug\net8.0\Squared.exe
+C:\Users\cbrow\source\repos\Squared\Squared\bin\Debug\net8.0\Squared.deps.json
+C:\Users\cbrow\source\repos\Squared\Squared\bin\Debug\net8.0\Squared.runtimeconfig.json
+C:\Users\cbrow\source\repos\Squared\Squared\bin\Debug\net8.0\Squared.dll
+C:\Users\cbrow\source\repos\Squared\Squared\bin\Debug\net8.0\Squared.pdb
+C:\Users\cbrow\source\repos\Squared\Squared\obj\Debug\net8.0\Squared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\Squared\Squared\obj\Debug\net8.0\Squared.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\Squared\Squared\obj\Debug\net8.0\Squared.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\Squared\Squared\obj\Debug\net8.0\Squared.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\Squared\Squared\obj\Debug\net8.0\Squared.sourcelink.json
+C:\Users\cbrow\source\repos\Squared\Squared\obj\Debug\net8.0\Squared.dll
+C:\Users\cbrow\source\repos\Squared\Squared\obj\Debug\net8.0\refint\Squared.dll
+C:\Users\cbrow\source\repos\Squared\Squared\obj\Debug\net8.0\Squared.pdb
+C:\Users\cbrow\source\repos\Squared\Squared\obj\Debug\net8.0\Squared.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\Squared\Squared\obj\Debug\net8.0\ref\Squared.dll

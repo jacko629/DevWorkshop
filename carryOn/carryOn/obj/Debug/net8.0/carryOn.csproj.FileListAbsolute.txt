@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\carryOn\carryOn\bin\Debug\net8.0\carryOn.exe
+C:\Users\cbrow\source\repos\carryOn\carryOn\bin\Debug\net8.0\carryOn.deps.json
+C:\Users\cbrow\source\repos\carryOn\carryOn\bin\Debug\net8.0\carryOn.runtimeconfig.json
+C:\Users\cbrow\source\repos\carryOn\carryOn\bin\Debug\net8.0\carryOn.dll
+C:\Users\cbrow\source\repos\carryOn\carryOn\bin\Debug\net8.0\carryOn.pdb
+C:\Users\cbrow\source\repos\carryOn\carryOn\obj\Debug\net8.0\carryOn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\carryOn\carryOn\obj\Debug\net8.0\carryOn.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\carryOn\carryOn\obj\Debug\net8.0\carryOn.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\carryOn\carryOn\obj\Debug\net8.0\carryOn.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\carryOn\carryOn\obj\Debug\net8.0\carryOn.sourcelink.json
+C:\Users\cbrow\source\repos\carryOn\carryOn\obj\Debug\net8.0\carryOn.dll
+C:\Users\cbrow\source\repos\carryOn\carryOn\obj\Debug\net8.0\refint\carryOn.dll
+C:\Users\cbrow\source\repos\carryOn\carryOn\obj\Debug\net8.0\carryOn.pdb
+C:\Users\cbrow\source\repos\carryOn\carryOn\obj\Debug\net8.0\carryOn.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\carryOn\carryOn\obj\Debug\net8.0\ref\carryOn.dll

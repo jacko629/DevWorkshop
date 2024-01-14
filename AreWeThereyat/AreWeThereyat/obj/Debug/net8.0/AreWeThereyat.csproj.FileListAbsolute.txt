@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\AreWeThereyat\AreWeThereyat\bin\Debug\net8.0\AreWeThereyat.exe
+C:\Users\cbrow\source\repos\AreWeThereyat\AreWeThereyat\bin\Debug\net8.0\AreWeThereyat.deps.json
+C:\Users\cbrow\source\repos\AreWeThereyat\AreWeThereyat\bin\Debug\net8.0\AreWeThereyat.runtimeconfig.json
+C:\Users\cbrow\source\repos\AreWeThereyat\AreWeThereyat\bin\Debug\net8.0\AreWeThereyat.dll
+C:\Users\cbrow\source\repos\AreWeThereyat\AreWeThereyat\bin\Debug\net8.0\AreWeThereyat.pdb
+C:\Users\cbrow\source\repos\AreWeThereyat\AreWeThereyat\obj\Debug\net8.0\AreWeThereyat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\AreWeThereyat\AreWeThereyat\obj\Debug\net8.0\AreWeThereyat.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\AreWeThereyat\AreWeThereyat\obj\Debug\net8.0\AreWeThereyat.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\AreWeThereyat\AreWeThereyat\obj\Debug\net8.0\AreWeThereyat.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\AreWeThereyat\AreWeThereyat\obj\Debug\net8.0\AreWeThereyat.sourcelink.json
+C:\Users\cbrow\source\repos\AreWeThereyat\AreWeThereyat\obj\Debug\net8.0\AreWeThereyat.dll
+C:\Users\cbrow\source\repos\AreWeThereyat\AreWeThereyat\obj\Debug\net8.0\refint\AreWeThereyat.dll
+C:\Users\cbrow\source\repos\AreWeThereyat\AreWeThereyat\obj\Debug\net8.0\AreWeThereyat.pdb
+C:\Users\cbrow\source\repos\AreWeThereyat\AreWeThereyat\obj\Debug\net8.0\AreWeThereyat.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\AreWeThereyat\AreWeThereyat\obj\Debug\net8.0\ref\AreWeThereyat.dll

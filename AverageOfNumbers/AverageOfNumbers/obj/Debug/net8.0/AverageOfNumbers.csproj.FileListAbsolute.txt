@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\AverageOfNumbers\AverageOfNumbers\bin\Debug\net8.0\AverageOfNumbers.exe
+C:\Users\cbrow\source\repos\AverageOfNumbers\AverageOfNumbers\bin\Debug\net8.0\AverageOfNumbers.deps.json
+C:\Users\cbrow\source\repos\AverageOfNumbers\AverageOfNumbers\bin\Debug\net8.0\AverageOfNumbers.runtimeconfig.json
+C:\Users\cbrow\source\repos\AverageOfNumbers\AverageOfNumbers\bin\Debug\net8.0\AverageOfNumbers.dll
+C:\Users\cbrow\source\repos\AverageOfNumbers\AverageOfNumbers\bin\Debug\net8.0\AverageOfNumbers.pdb
+C:\Users\cbrow\source\repos\AverageOfNumbers\AverageOfNumbers\obj\Debug\net8.0\AverageOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\AverageOfNumbers\AverageOfNumbers\obj\Debug\net8.0\AverageOfNumbers.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\AverageOfNumbers\AverageOfNumbers\obj\Debug\net8.0\AverageOfNumbers.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\AverageOfNumbers\AverageOfNumbers\obj\Debug\net8.0\AverageOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\AverageOfNumbers\AverageOfNumbers\obj\Debug\net8.0\AverageOfNumbers.sourcelink.json
+C:\Users\cbrow\source\repos\AverageOfNumbers\AverageOfNumbers\obj\Debug\net8.0\AverageOfNumbers.dll
+C:\Users\cbrow\source\repos\AverageOfNumbers\AverageOfNumbers\obj\Debug\net8.0\refint\AverageOfNumbers.dll
+C:\Users\cbrow\source\repos\AverageOfNumbers\AverageOfNumbers\obj\Debug\net8.0\AverageOfNumbers.pdb
+C:\Users\cbrow\source\repos\AverageOfNumbers\AverageOfNumbers\obj\Debug\net8.0\AverageOfNumbers.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\AverageOfNumbers\AverageOfNumbers\obj\Debug\net8.0\ref\AverageOfNumbers.dll

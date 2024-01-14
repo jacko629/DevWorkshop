@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\ot89iuuikujuhnn;\ot89iuuikujuhnn;\bin\Debug\net8.0\ot89iuuikujuhnn;.exe
+C:\Users\cbrow\source\repos\ot89iuuikujuhnn;\ot89iuuikujuhnn;\bin\Debug\net8.0\ot89iuuikujuhnn;.deps.json
+C:\Users\cbrow\source\repos\ot89iuuikujuhnn;\ot89iuuikujuhnn;\bin\Debug\net8.0\ot89iuuikujuhnn;.runtimeconfig.json
+C:\Users\cbrow\source\repos\ot89iuuikujuhnn;\ot89iuuikujuhnn;\bin\Debug\net8.0\ot89iuuikujuhnn;.dll
+C:\Users\cbrow\source\repos\ot89iuuikujuhnn;\ot89iuuikujuhnn;\bin\Debug\net8.0\ot89iuuikujuhnn;.pdb
+C:\Users\cbrow\source\repos\ot89iuuikujuhnn;\ot89iuuikujuhnn;\obj\Debug\net8.0\ot89iuuikujuhnn;.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\ot89iuuikujuhnn;\ot89iuuikujuhnn;\obj\Debug\net8.0\ot89iuuikujuhnn;.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\ot89iuuikujuhnn;\ot89iuuikujuhnn;\obj\Debug\net8.0\ot89iuuikujuhnn;.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\ot89iuuikujuhnn;\ot89iuuikujuhnn;\obj\Debug\net8.0\ot89iuuikujuhnn;.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\ot89iuuikujuhnn;\ot89iuuikujuhnn;\obj\Debug\net8.0\ot89iuuikujuhnn;.sourcelink.json
+C:\Users\cbrow\source\repos\ot89iuuikujuhnn;\ot89iuuikujuhnn;\obj\Debug\net8.0\ot89iuuikujuhnn;.dll
+C:\Users\cbrow\source\repos\ot89iuuikujuhnn;\ot89iuuikujuhnn;\obj\Debug\net8.0\refint\ot89iuuikujuhnn;.dll
+C:\Users\cbrow\source\repos\ot89iuuikujuhnn;\ot89iuuikujuhnn;\obj\Debug\net8.0\ot89iuuikujuhnn;.pdb
+C:\Users\cbrow\source\repos\ot89iuuikujuhnn;\ot89iuuikujuhnn;\obj\Debug\net8.0\ot89iuuikujuhnn;.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\ot89iuuikujuhnn;\ot89iuuikujuhnn;\obj\Debug\net8.0\ref\ot89iuuikujuhnn;.dll

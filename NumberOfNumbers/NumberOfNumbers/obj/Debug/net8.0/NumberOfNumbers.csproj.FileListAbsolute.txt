@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\NumberOfNumbers\NumberOfNumbers\bin\Debug\net8.0\NumberOfNumbers.exe
+C:\Users\cbrow\source\repos\NumberOfNumbers\NumberOfNumbers\bin\Debug\net8.0\NumberOfNumbers.deps.json
+C:\Users\cbrow\source\repos\NumberOfNumbers\NumberOfNumbers\bin\Debug\net8.0\NumberOfNumbers.runtimeconfig.json
+C:\Users\cbrow\source\repos\NumberOfNumbers\NumberOfNumbers\bin\Debug\net8.0\NumberOfNumbers.dll
+C:\Users\cbrow\source\repos\NumberOfNumbers\NumberOfNumbers\bin\Debug\net8.0\NumberOfNumbers.pdb
+C:\Users\cbrow\source\repos\NumberOfNumbers\NumberOfNumbers\obj\Debug\net8.0\NumberOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\NumberOfNumbers\NumberOfNumbers\obj\Debug\net8.0\NumberOfNumbers.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\NumberOfNumbers\NumberOfNumbers\obj\Debug\net8.0\NumberOfNumbers.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\NumberOfNumbers\NumberOfNumbers\obj\Debug\net8.0\NumberOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\NumberOfNumbers\NumberOfNumbers\obj\Debug\net8.0\NumberOfNumbers.sourcelink.json
+C:\Users\cbrow\source\repos\NumberOfNumbers\NumberOfNumbers\obj\Debug\net8.0\NumberOfNumbers.dll
+C:\Users\cbrow\source\repos\NumberOfNumbers\NumberOfNumbers\obj\Debug\net8.0\refint\NumberOfNumbers.dll
+C:\Users\cbrow\source\repos\NumberOfNumbers\NumberOfNumbers\obj\Debug\net8.0\NumberOfNumbers.pdb
+C:\Users\cbrow\source\repos\NumberOfNumbers\NumberOfNumbers\obj\Debug\net8.0\NumberOfNumbers.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\NumberOfNumbers\NumberOfNumbers\obj\Debug\net8.0\ref\NumberOfNumbers.dll

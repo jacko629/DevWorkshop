@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\AverageOfPositiveNumbersApp\AverageOfPositiveNumbers\bin\Debug\net8.0\AverageOfPositiveNumbers.exe
+C:\Users\cbrow\source\repos\AverageOfPositiveNumbersApp\AverageOfPositiveNumbers\bin\Debug\net8.0\AverageOfPositiveNumbers.deps.json
+C:\Users\cbrow\source\repos\AverageOfPositiveNumbersApp\AverageOfPositiveNumbers\bin\Debug\net8.0\AverageOfPositiveNumbers.runtimeconfig.json
+C:\Users\cbrow\source\repos\AverageOfPositiveNumbersApp\AverageOfPositiveNumbers\bin\Debug\net8.0\AverageOfPositiveNumbers.dll
+C:\Users\cbrow\source\repos\AverageOfPositiveNumbersApp\AverageOfPositiveNumbers\bin\Debug\net8.0\AverageOfPositiveNumbers.pdb
+C:\Users\cbrow\source\repos\AverageOfPositiveNumbersApp\AverageOfPositiveNumbers\obj\Debug\net8.0\AverageOfPositiveNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\AverageOfPositiveNumbersApp\AverageOfPositiveNumbers\obj\Debug\net8.0\AverageOfPositiveNumbers.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\AverageOfPositiveNumbersApp\AverageOfPositiveNumbers\obj\Debug\net8.0\AverageOfPositiveNumbers.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\AverageOfPositiveNumbersApp\AverageOfPositiveNumbers\obj\Debug\net8.0\AverageOfPositiveNumbers.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\AverageOfPositiveNumbersApp\AverageOfPositiveNumbers\obj\Debug\net8.0\AverageOfPositiveNumbers.sourcelink.json
+C:\Users\cbrow\source\repos\AverageOfPositiveNumbersApp\AverageOfPositiveNumbers\obj\Debug\net8.0\AverageOfPositiveNumbers.dll
+C:\Users\cbrow\source\repos\AverageOfPositiveNumbersApp\AverageOfPositiveNumbers\obj\Debug\net8.0\refint\AverageOfPositiveNumbers.dll
+C:\Users\cbrow\source\repos\AverageOfPositiveNumbersApp\AverageOfPositiveNumbers\obj\Debug\net8.0\AverageOfPositiveNumbers.pdb
+C:\Users\cbrow\source\repos\AverageOfPositiveNumbersApp\AverageOfPositiveNumbers\obj\Debug\net8.0\AverageOfPositiveNumbers.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\AverageOfPositiveNumbersApp\AverageOfPositiveNumbers\obj\Debug\net8.0\ref\AverageOfPositiveNumbers.dll

@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\count\count\bin\Debug\net8.0\count.exe
+C:\Users\cbrow\source\repos\count\count\bin\Debug\net8.0\count.deps.json
+C:\Users\cbrow\source\repos\count\count\bin\Debug\net8.0\count.runtimeconfig.json
+C:\Users\cbrow\source\repos\count\count\bin\Debug\net8.0\count.dll
+C:\Users\cbrow\source\repos\count\count\bin\Debug\net8.0\count.pdb
+C:\Users\cbrow\source\repos\count\count\obj\Debug\net8.0\count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\count\count\obj\Debug\net8.0\count.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\count\count\obj\Debug\net8.0\count.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\count\count\obj\Debug\net8.0\count.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\count\count\obj\Debug\net8.0\count.sourcelink.json
+C:\Users\cbrow\source\repos\count\count\obj\Debug\net8.0\count.dll
+C:\Users\cbrow\source\repos\count\count\obj\Debug\net8.0\refint\count.dll
+C:\Users\cbrow\source\repos\count\count\obj\Debug\net8.0\count.pdb
+C:\Users\cbrow\source\repos\count\count\obj\Debug\net8.0\count.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\count\count\obj\Debug\net8.0\ref\count.dll

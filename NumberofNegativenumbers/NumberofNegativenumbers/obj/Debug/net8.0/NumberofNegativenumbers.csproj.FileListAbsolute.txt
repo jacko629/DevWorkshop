@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\NumberofNegativenumbers\NumberofNegativenumbers\bin\Debug\net8.0\NumberofNegativenumbers.exe
+C:\Users\cbrow\source\repos\NumberofNegativenumbers\NumberofNegativenumbers\bin\Debug\net8.0\NumberofNegativenumbers.deps.json
+C:\Users\cbrow\source\repos\NumberofNegativenumbers\NumberofNegativenumbers\bin\Debug\net8.0\NumberofNegativenumbers.runtimeconfig.json
+C:\Users\cbrow\source\repos\NumberofNegativenumbers\NumberofNegativenumbers\bin\Debug\net8.0\NumberofNegativenumbers.dll
+C:\Users\cbrow\source\repos\NumberofNegativenumbers\NumberofNegativenumbers\bin\Debug\net8.0\NumberofNegativenumbers.pdb
+C:\Users\cbrow\source\repos\NumberofNegativenumbers\NumberofNegativenumbers\obj\Debug\net8.0\NumberofNegativenumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\NumberofNegativenumbers\NumberofNegativenumbers\obj\Debug\net8.0\NumberofNegativenumbers.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\NumberofNegativenumbers\NumberofNegativenumbers\obj\Debug\net8.0\NumberofNegativenumbers.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\NumberofNegativenumbers\NumberofNegativenumbers\obj\Debug\net8.0\NumberofNegativenumbers.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\NumberofNegativenumbers\NumberofNegativenumbers\obj\Debug\net8.0\NumberofNegativenumbers.sourcelink.json
+C:\Users\cbrow\source\repos\NumberofNegativenumbers\NumberofNegativenumbers\obj\Debug\net8.0\NumberofNegativenumbers.dll
+C:\Users\cbrow\source\repos\NumberofNegativenumbers\NumberofNegativenumbers\obj\Debug\net8.0\refint\NumberofNegativenumbers.dll
+C:\Users\cbrow\source\repos\NumberofNegativenumbers\NumberofNegativenumbers\obj\Debug\net8.0\NumberofNegativenumbers.pdb
+C:\Users\cbrow\source\repos\NumberofNegativenumbers\NumberofNegativenumbers\obj\Debug\net8.0\NumberofNegativenumbers.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\NumberofNegativenumbers\NumberofNegativenumbers\obj\Debug\net8.0\ref\NumberofNegativenumbers.dll

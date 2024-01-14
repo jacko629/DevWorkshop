@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\ComparingNumbersApp\ComparingNumbers\bin\Debug\net8.0\ComparingNumbers.exe
+C:\Users\cbrow\source\repos\ComparingNumbersApp\ComparingNumbers\bin\Debug\net8.0\ComparingNumbers.deps.json
+C:\Users\cbrow\source\repos\ComparingNumbersApp\ComparingNumbers\bin\Debug\net8.0\ComparingNumbers.runtimeconfig.json
+C:\Users\cbrow\source\repos\ComparingNumbersApp\ComparingNumbers\bin\Debug\net8.0\ComparingNumbers.dll
+C:\Users\cbrow\source\repos\ComparingNumbersApp\ComparingNumbers\bin\Debug\net8.0\ComparingNumbers.pdb
+C:\Users\cbrow\source\repos\ComparingNumbersApp\ComparingNumbers\obj\Debug\net8.0\ComparingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\ComparingNumbersApp\ComparingNumbers\obj\Debug\net8.0\ComparingNumbers.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\ComparingNumbersApp\ComparingNumbers\obj\Debug\net8.0\ComparingNumbers.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\ComparingNumbersApp\ComparingNumbers\obj\Debug\net8.0\ComparingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\ComparingNumbersApp\ComparingNumbers\obj\Debug\net8.0\ComparingNumbers.sourcelink.json
+C:\Users\cbrow\source\repos\ComparingNumbersApp\ComparingNumbers\obj\Debug\net8.0\ComparingNumbers.dll
+C:\Users\cbrow\source\repos\ComparingNumbersApp\ComparingNumbers\obj\Debug\net8.0\refint\ComparingNumbers.dll
+C:\Users\cbrow\source\repos\ComparingNumbersApp\ComparingNumbers\obj\Debug\net8.0\ComparingNumbers.pdb
+C:\Users\cbrow\source\repos\ComparingNumbersApp\ComparingNumbers\obj\Debug\net8.0\ComparingNumbers.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\ComparingNumbersApp\ComparingNumbers\obj\Debug\net8.0\ref\ComparingNumbers.dll

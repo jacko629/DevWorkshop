@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\AbsoluteValueApp\AbsoluteValue\bin\Debug\net8.0\AbsoluteValue.exe
+C:\Users\cbrow\source\repos\AbsoluteValueApp\AbsoluteValue\bin\Debug\net8.0\AbsoluteValue.deps.json
+C:\Users\cbrow\source\repos\AbsoluteValueApp\AbsoluteValue\bin\Debug\net8.0\AbsoluteValue.runtimeconfig.json
+C:\Users\cbrow\source\repos\AbsoluteValueApp\AbsoluteValue\bin\Debug\net8.0\AbsoluteValue.dll
+C:\Users\cbrow\source\repos\AbsoluteValueApp\AbsoluteValue\bin\Debug\net8.0\AbsoluteValue.pdb
+C:\Users\cbrow\source\repos\AbsoluteValueApp\AbsoluteValue\obj\Debug\net8.0\AbsoluteValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\AbsoluteValueApp\AbsoluteValue\obj\Debug\net8.0\AbsoluteValue.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\AbsoluteValueApp\AbsoluteValue\obj\Debug\net8.0\AbsoluteValue.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\AbsoluteValueApp\AbsoluteValue\obj\Debug\net8.0\AbsoluteValue.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\AbsoluteValueApp\AbsoluteValue\obj\Debug\net8.0\AbsoluteValue.sourcelink.json
+C:\Users\cbrow\source\repos\AbsoluteValueApp\AbsoluteValue\obj\Debug\net8.0\AbsoluteValue.dll
+C:\Users\cbrow\source\repos\AbsoluteValueApp\AbsoluteValue\obj\Debug\net8.0\refint\AbsoluteValue.dll
+C:\Users\cbrow\source\repos\AbsoluteValueApp\AbsoluteValue\obj\Debug\net8.0\AbsoluteValue.pdb
+C:\Users\cbrow\source\repos\AbsoluteValueApp\AbsoluteValue\obj\Debug\net8.0\AbsoluteValue.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\AbsoluteValueApp\AbsoluteValue\obj\Debug\net8.0\ref\AbsoluteValue.dll

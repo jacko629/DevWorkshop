@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\SqareRootOfsum\SqareRootOfsum\bin\Debug\net8.0\SqareRootOfsum.exe
+C:\Users\cbrow\source\repos\SqareRootOfsum\SqareRootOfsum\bin\Debug\net8.0\SqareRootOfsum.deps.json
+C:\Users\cbrow\source\repos\SqareRootOfsum\SqareRootOfsum\bin\Debug\net8.0\SqareRootOfsum.runtimeconfig.json
+C:\Users\cbrow\source\repos\SqareRootOfsum\SqareRootOfsum\bin\Debug\net8.0\SqareRootOfsum.dll
+C:\Users\cbrow\source\repos\SqareRootOfsum\SqareRootOfsum\bin\Debug\net8.0\SqareRootOfsum.pdb
+C:\Users\cbrow\source\repos\SqareRootOfsum\SqareRootOfsum\obj\Debug\net8.0\SqareRootOfsum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\SqareRootOfsum\SqareRootOfsum\obj\Debug\net8.0\SqareRootOfsum.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\SqareRootOfsum\SqareRootOfsum\obj\Debug\net8.0\SqareRootOfsum.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\SqareRootOfsum\SqareRootOfsum\obj\Debug\net8.0\SqareRootOfsum.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\SqareRootOfsum\SqareRootOfsum\obj\Debug\net8.0\SqareRootOfsum.sourcelink.json
+C:\Users\cbrow\source\repos\SqareRootOfsum\SqareRootOfsum\obj\Debug\net8.0\SqareRootOfsum.dll
+C:\Users\cbrow\source\repos\SqareRootOfsum\SqareRootOfsum\obj\Debug\net8.0\refint\SqareRootOfsum.dll
+C:\Users\cbrow\source\repos\SqareRootOfsum\SqareRootOfsum\obj\Debug\net8.0\SqareRootOfsum.pdb
+C:\Users\cbrow\source\repos\SqareRootOfsum\SqareRootOfsum\obj\Debug\net8.0\SqareRootOfsum.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\SqareRootOfsum\SqareRootOfsum\obj\Debug\net8.0\ref\SqareRootOfsum.dll

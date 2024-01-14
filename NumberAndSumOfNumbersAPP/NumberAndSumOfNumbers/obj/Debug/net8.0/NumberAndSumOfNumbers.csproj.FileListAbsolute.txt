@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\NumberAndSumOfNumbersAPP\NumberAndSumOfNumbers\bin\Debug\net8.0\NumberAndSumOfNumbers.exe
+C:\Users\cbrow\source\repos\NumberAndSumOfNumbersAPP\NumberAndSumOfNumbers\bin\Debug\net8.0\NumberAndSumOfNumbers.deps.json
+C:\Users\cbrow\source\repos\NumberAndSumOfNumbersAPP\NumberAndSumOfNumbers\bin\Debug\net8.0\NumberAndSumOfNumbers.runtimeconfig.json
+C:\Users\cbrow\source\repos\NumberAndSumOfNumbersAPP\NumberAndSumOfNumbers\bin\Debug\net8.0\NumberAndSumOfNumbers.dll
+C:\Users\cbrow\source\repos\NumberAndSumOfNumbersAPP\NumberAndSumOfNumbers\bin\Debug\net8.0\NumberAndSumOfNumbers.pdb
+C:\Users\cbrow\source\repos\NumberAndSumOfNumbersAPP\NumberAndSumOfNumbers\obj\Debug\net8.0\NumberAndSumOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\NumberAndSumOfNumbersAPP\NumberAndSumOfNumbers\obj\Debug\net8.0\NumberAndSumOfNumbers.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\NumberAndSumOfNumbersAPP\NumberAndSumOfNumbers\obj\Debug\net8.0\NumberAndSumOfNumbers.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\NumberAndSumOfNumbersAPP\NumberAndSumOfNumbers\obj\Debug\net8.0\NumberAndSumOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\NumberAndSumOfNumbersAPP\NumberAndSumOfNumbers\obj\Debug\net8.0\NumberAndSumOfNumbers.sourcelink.json
+C:\Users\cbrow\source\repos\NumberAndSumOfNumbersAPP\NumberAndSumOfNumbers\obj\Debug\net8.0\NumberAndSumOfNumbers.dll
+C:\Users\cbrow\source\repos\NumberAndSumOfNumbersAPP\NumberAndSumOfNumbers\obj\Debug\net8.0\refint\NumberAndSumOfNumbers.dll
+C:\Users\cbrow\source\repos\NumberAndSumOfNumbersAPP\NumberAndSumOfNumbers\obj\Debug\net8.0\NumberAndSumOfNumbers.pdb
+C:\Users\cbrow\source\repos\NumberAndSumOfNumbersAPP\NumberAndSumOfNumbers\obj\Debug\net8.0\NumberAndSumOfNumbers.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\NumberAndSumOfNumbersAPP\NumberAndSumOfNumbers\obj\Debug\net8.0\ref\NumberAndSumOfNumbers.dll

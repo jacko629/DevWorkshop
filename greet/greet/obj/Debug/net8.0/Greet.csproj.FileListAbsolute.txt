@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\greet\Greet\bin\Debug\net8.0\Greet.exe
+C:\Users\cbrow\source\repos\greet\Greet\bin\Debug\net8.0\Greet.deps.json
+C:\Users\cbrow\source\repos\greet\Greet\bin\Debug\net8.0\Greet.runtimeconfig.json
+C:\Users\cbrow\source\repos\greet\Greet\bin\Debug\net8.0\Greet.dll
+C:\Users\cbrow\source\repos\greet\Greet\bin\Debug\net8.0\Greet.pdb
+C:\Users\cbrow\source\repos\greet\Greet\obj\Debug\net8.0\Greet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\greet\Greet\obj\Debug\net8.0\Greet.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\greet\Greet\obj\Debug\net8.0\Greet.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\greet\Greet\obj\Debug\net8.0\Greet.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\greet\Greet\obj\Debug\net8.0\Greet.sourcelink.json
+C:\Users\cbrow\source\repos\greet\Greet\obj\Debug\net8.0\Greet.dll
+C:\Users\cbrow\source\repos\greet\Greet\obj\Debug\net8.0\refint\Greet.dll
+C:\Users\cbrow\source\repos\greet\Greet\obj\Debug\net8.0\Greet.pdb
+C:\Users\cbrow\source\repos\greet\Greet\obj\Debug\net8.0\Greet.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\greet\Greet\obj\Debug\net8.0\ref\Greet.dll

@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\repeatingBreakingAndRememberingApp\repeatingBreakingAndRemembering\obj\Debug\net8.0\repeatingBreakingAndRemembering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\repeatingBreakingAndRememberingApp\repeatingBreakingAndRemembering\obj\Debug\net8.0\repeatingBreakingAndRemembering.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\repeatingBreakingAndRememberingApp\repeatingBreakingAndRemembering\obj\Debug\net8.0\repeatingBreakingAndRemembering.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\repeatingBreakingAndRememberingApp\repeatingBreakingAndRemembering\obj\Debug\net8.0\repeatingBreakingAndRemembering.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\repeatingBreakingAndRememberingApp\repeatingBreakingAndRemembering\obj\Debug\net8.0\repeatingBreakingAndRemembering.sourcelink.json
+C:\Users\cbrow\source\repos\repeatingBreakingAndRememberingApp\repeatingBreakingAndRemembering\bin\Debug\net8.0\repeatingBreakingAndRemembering.exe
+C:\Users\cbrow\source\repos\repeatingBreakingAndRememberingApp\repeatingBreakingAndRemembering\bin\Debug\net8.0\repeatingBreakingAndRemembering.deps.json
+C:\Users\cbrow\source\repos\repeatingBreakingAndRememberingApp\repeatingBreakingAndRemembering\bin\Debug\net8.0\repeatingBreakingAndRemembering.runtimeconfig.json
+C:\Users\cbrow\source\repos\repeatingBreakingAndRememberingApp\repeatingBreakingAndRemembering\bin\Debug\net8.0\repeatingBreakingAndRemembering.dll
+C:\Users\cbrow\source\repos\repeatingBreakingAndRememberingApp\repeatingBreakingAndRemembering\bin\Debug\net8.0\repeatingBreakingAndRemembering.pdb
+C:\Users\cbrow\source\repos\repeatingBreakingAndRememberingApp\repeatingBreakingAndRemembering\obj\Debug\net8.0\repeatingBreakingAndRemembering.dll
+C:\Users\cbrow\source\repos\repeatingBreakingAndRememberingApp\repeatingBreakingAndRemembering\obj\Debug\net8.0\refint\repeatingBreakingAndRemembering.dll
+C:\Users\cbrow\source\repos\repeatingBreakingAndRememberingApp\repeatingBreakingAndRemembering\obj\Debug\net8.0\repeatingBreakingAndRemembering.pdb
+C:\Users\cbrow\source\repos\repeatingBreakingAndRememberingApp\repeatingBreakingAndRemembering\obj\Debug\net8.0\repeatingBreakingAndRemembering.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\repeatingBreakingAndRememberingApp\repeatingBreakingAndRemembering\obj\Debug\net8.0\ref\repeatingBreakingAndRemembering.dll

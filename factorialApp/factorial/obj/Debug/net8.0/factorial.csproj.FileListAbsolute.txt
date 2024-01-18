@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\factorialApp\factorial\bin\Debug\net8.0\factorial.exe
+C:\Users\cbrow\source\repos\factorialApp\factorial\bin\Debug\net8.0\factorial.deps.json
+C:\Users\cbrow\source\repos\factorialApp\factorial\bin\Debug\net8.0\factorial.runtimeconfig.json
+C:\Users\cbrow\source\repos\factorialApp\factorial\bin\Debug\net8.0\factorial.dll
+C:\Users\cbrow\source\repos\factorialApp\factorial\bin\Debug\net8.0\factorial.pdb
+C:\Users\cbrow\source\repos\factorialApp\factorial\obj\Debug\net8.0\factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\factorialApp\factorial\obj\Debug\net8.0\factorial.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\factorialApp\factorial\obj\Debug\net8.0\factorial.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\factorialApp\factorial\obj\Debug\net8.0\factorial.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\factorialApp\factorial\obj\Debug\net8.0\factorial.sourcelink.json
+C:\Users\cbrow\source\repos\factorialApp\factorial\obj\Debug\net8.0\factorial.dll
+C:\Users\cbrow\source\repos\factorialApp\factorial\obj\Debug\net8.0\refint\factorial.dll
+C:\Users\cbrow\source\repos\factorialApp\factorial\obj\Debug\net8.0\factorial.pdb
+C:\Users\cbrow\source\repos\factorialApp\factorial\obj\Debug\net8.0\factorial.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\factorialApp\factorial\obj\Debug\net8.0\ref\factorial.dll

@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\LoopPrintApp\LoopPrint\bin\Debug\net8.0\LoopPrint.exe
+C:\Users\cbrow\source\repos\LoopPrintApp\LoopPrint\bin\Debug\net8.0\LoopPrint.deps.json
+C:\Users\cbrow\source\repos\LoopPrintApp\LoopPrint\bin\Debug\net8.0\LoopPrint.runtimeconfig.json
+C:\Users\cbrow\source\repos\LoopPrintApp\LoopPrint\bin\Debug\net8.0\LoopPrint.dll
+C:\Users\cbrow\source\repos\LoopPrintApp\LoopPrint\bin\Debug\net8.0\LoopPrint.pdb
+C:\Users\cbrow\source\repos\LoopPrintApp\LoopPrint\obj\Debug\net8.0\LoopPrint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\LoopPrintApp\LoopPrint\obj\Debug\net8.0\LoopPrint.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\LoopPrintApp\LoopPrint\obj\Debug\net8.0\LoopPrint.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\LoopPrintApp\LoopPrint\obj\Debug\net8.0\LoopPrint.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\LoopPrintApp\LoopPrint\obj\Debug\net8.0\LoopPrint.sourcelink.json
+C:\Users\cbrow\source\repos\LoopPrintApp\LoopPrint\obj\Debug\net8.0\LoopPrint.dll
+C:\Users\cbrow\source\repos\LoopPrintApp\LoopPrint\obj\Debug\net8.0\refint\LoopPrint.dll
+C:\Users\cbrow\source\repos\LoopPrintApp\LoopPrint\obj\Debug\net8.0\LoopPrint.pdb
+C:\Users\cbrow\source\repos\LoopPrintApp\LoopPrint\obj\Debug\net8.0\LoopPrint.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\LoopPrintApp\LoopPrint\obj\Debug\net8.0\ref\LoopPrint.dll

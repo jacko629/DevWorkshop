@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\froWhereToWhereApp\froWhereToWhere\bin\Debug\net8.0\froWhereToWhere.exe
+C:\Users\cbrow\source\repos\froWhereToWhereApp\froWhereToWhere\bin\Debug\net8.0\froWhereToWhere.deps.json
+C:\Users\cbrow\source\repos\froWhereToWhereApp\froWhereToWhere\bin\Debug\net8.0\froWhereToWhere.runtimeconfig.json
+C:\Users\cbrow\source\repos\froWhereToWhereApp\froWhereToWhere\bin\Debug\net8.0\froWhereToWhere.dll
+C:\Users\cbrow\source\repos\froWhereToWhereApp\froWhereToWhere\bin\Debug\net8.0\froWhereToWhere.pdb
+C:\Users\cbrow\source\repos\froWhereToWhereApp\froWhereToWhere\obj\Debug\net8.0\froWhereToWhere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\froWhereToWhereApp\froWhereToWhere\obj\Debug\net8.0\froWhereToWhere.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\froWhereToWhereApp\froWhereToWhere\obj\Debug\net8.0\froWhereToWhere.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\froWhereToWhereApp\froWhereToWhere\obj\Debug\net8.0\froWhereToWhere.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\froWhereToWhereApp\froWhereToWhere\obj\Debug\net8.0\froWhereToWhere.sourcelink.json
+C:\Users\cbrow\source\repos\froWhereToWhereApp\froWhereToWhere\obj\Debug\net8.0\froWhereToWhere.dll
+C:\Users\cbrow\source\repos\froWhereToWhereApp\froWhereToWhere\obj\Debug\net8.0\refint\froWhereToWhere.dll
+C:\Users\cbrow\source\repos\froWhereToWhereApp\froWhereToWhere\obj\Debug\net8.0\froWhereToWhere.pdb
+C:\Users\cbrow\source\repos\froWhereToWhereApp\froWhereToWhere\obj\Debug\net8.0\froWhereToWhere.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\froWhereToWhereApp\froWhereToWhere\obj\Debug\net8.0\ref\froWhereToWhere.dll

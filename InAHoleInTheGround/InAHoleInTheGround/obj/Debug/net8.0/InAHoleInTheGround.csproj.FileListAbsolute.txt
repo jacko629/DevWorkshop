@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\InAHoleInTheGround\InAHoleInTheGround\obj\Debug\net8.0\InAHoleInTheGround.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\InAHoleInTheGround\InAHoleInTheGround\obj\Debug\net8.0\InAHoleInTheGround.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\InAHoleInTheGround\InAHoleInTheGround\obj\Debug\net8.0\InAHoleInTheGround.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\InAHoleInTheGround\InAHoleInTheGround\obj\Debug\net8.0\InAHoleInTheGround.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\InAHoleInTheGround\InAHoleInTheGround\obj\Debug\net8.0\InAHoleInTheGround.sourcelink.json
+C:\Users\cbrow\source\repos\InAHoleInTheGround\InAHoleInTheGround\bin\Debug\net8.0\InAHoleInTheGround.exe
+C:\Users\cbrow\source\repos\InAHoleInTheGround\InAHoleInTheGround\bin\Debug\net8.0\InAHoleInTheGround.deps.json
+C:\Users\cbrow\source\repos\InAHoleInTheGround\InAHoleInTheGround\bin\Debug\net8.0\InAHoleInTheGround.runtimeconfig.json
+C:\Users\cbrow\source\repos\InAHoleInTheGround\InAHoleInTheGround\bin\Debug\net8.0\InAHoleInTheGround.dll
+C:\Users\cbrow\source\repos\InAHoleInTheGround\InAHoleInTheGround\bin\Debug\net8.0\InAHoleInTheGround.pdb
+C:\Users\cbrow\source\repos\InAHoleInTheGround\InAHoleInTheGround\obj\Debug\net8.0\InAHoleInTheGround.dll
+C:\Users\cbrow\source\repos\InAHoleInTheGround\InAHoleInTheGround\obj\Debug\net8.0\refint\InAHoleInTheGround.dll
+C:\Users\cbrow\source\repos\InAHoleInTheGround\InAHoleInTheGround\obj\Debug\net8.0\InAHoleInTheGround.pdb
+C:\Users\cbrow\source\repos\InAHoleInTheGround\InAHoleInTheGround\obj\Debug\net8.0\InAHoleInTheGround.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\InAHoleInTheGround\InAHoleInTheGround\obj\Debug\net8.0\ref\InAHoleInTheGround.dll

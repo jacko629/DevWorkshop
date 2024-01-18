@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\fromOneToParameterApp\fromOneToParameter\obj\Debug\net8.0\fromOneToParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\fromOneToParameterApp\fromOneToParameter\obj\Debug\net8.0\fromOneToParameter.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\fromOneToParameterApp\fromOneToParameter\obj\Debug\net8.0\fromOneToParameter.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\fromOneToParameterApp\fromOneToParameter\obj\Debug\net8.0\fromOneToParameter.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\fromOneToParameterApp\fromOneToParameter\obj\Debug\net8.0\fromOneToParameter.sourcelink.json
+C:\Users\cbrow\source\repos\fromOneToParameterApp\fromOneToParameter\bin\Debug\net8.0\fromOneToParameter.exe
+C:\Users\cbrow\source\repos\fromOneToParameterApp\fromOneToParameter\bin\Debug\net8.0\fromOneToParameter.deps.json
+C:\Users\cbrow\source\repos\fromOneToParameterApp\fromOneToParameter\bin\Debug\net8.0\fromOneToParameter.runtimeconfig.json
+C:\Users\cbrow\source\repos\fromOneToParameterApp\fromOneToParameter\bin\Debug\net8.0\fromOneToParameter.dll
+C:\Users\cbrow\source\repos\fromOneToParameterApp\fromOneToParameter\bin\Debug\net8.0\fromOneToParameter.pdb
+C:\Users\cbrow\source\repos\fromOneToParameterApp\fromOneToParameter\obj\Debug\net8.0\fromOneToParameter.dll
+C:\Users\cbrow\source\repos\fromOneToParameterApp\fromOneToParameter\obj\Debug\net8.0\refint\fromOneToParameter.dll
+C:\Users\cbrow\source\repos\fromOneToParameterApp\fromOneToParameter\obj\Debug\net8.0\fromOneToParameter.pdb
+C:\Users\cbrow\source\repos\fromOneToParameterApp\fromOneToParameter\obj\Debug\net8.0\fromOneToParameter.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\fromOneToParameterApp\fromOneToParameter\obj\Debug\net8.0\ref\fromOneToParameter.dll

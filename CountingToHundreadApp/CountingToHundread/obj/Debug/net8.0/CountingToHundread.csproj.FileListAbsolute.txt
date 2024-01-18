@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\CountingToHundreadApp\CountingToHundread\bin\Debug\net8.0\CountingToHundread.exe
+C:\Users\cbrow\source\repos\CountingToHundreadApp\CountingToHundread\bin\Debug\net8.0\CountingToHundread.deps.json
+C:\Users\cbrow\source\repos\CountingToHundreadApp\CountingToHundread\bin\Debug\net8.0\CountingToHundread.runtimeconfig.json
+C:\Users\cbrow\source\repos\CountingToHundreadApp\CountingToHundread\bin\Debug\net8.0\CountingToHundread.dll
+C:\Users\cbrow\source\repos\CountingToHundreadApp\CountingToHundread\bin\Debug\net8.0\CountingToHundread.pdb
+C:\Users\cbrow\source\repos\CountingToHundreadApp\CountingToHundread\obj\Debug\net8.0\CountingToHundread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\CountingToHundreadApp\CountingToHundread\obj\Debug\net8.0\CountingToHundread.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\CountingToHundreadApp\CountingToHundread\obj\Debug\net8.0\CountingToHundread.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\CountingToHundreadApp\CountingToHundread\obj\Debug\net8.0\CountingToHundread.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\CountingToHundreadApp\CountingToHundread\obj\Debug\net8.0\CountingToHundread.sourcelink.json
+C:\Users\cbrow\source\repos\CountingToHundreadApp\CountingToHundread\obj\Debug\net8.0\CountingToHundread.dll
+C:\Users\cbrow\source\repos\CountingToHundreadApp\CountingToHundread\obj\Debug\net8.0\refint\CountingToHundread.dll
+C:\Users\cbrow\source\repos\CountingToHundreadApp\CountingToHundread\obj\Debug\net8.0\CountingToHundread.pdb
+C:\Users\cbrow\source\repos\CountingToHundreadApp\CountingToHundread\obj\Debug\net8.0\CountingToHundread.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\CountingToHundreadApp\CountingToHundread\obj\Debug\net8.0\ref\CountingToHundread.dll

@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\CountingApp\Counting\bin\Debug\net8.0\Counting.exe
+C:\Users\cbrow\source\repos\CountingApp\Counting\bin\Debug\net8.0\Counting.deps.json
+C:\Users\cbrow\source\repos\CountingApp\Counting\bin\Debug\net8.0\Counting.runtimeconfig.json
+C:\Users\cbrow\source\repos\CountingApp\Counting\bin\Debug\net8.0\Counting.dll
+C:\Users\cbrow\source\repos\CountingApp\Counting\bin\Debug\net8.0\Counting.pdb
+C:\Users\cbrow\source\repos\CountingApp\Counting\obj\Debug\net8.0\Counting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\CountingApp\Counting\obj\Debug\net8.0\Counting.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\CountingApp\Counting\obj\Debug\net8.0\Counting.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\CountingApp\Counting\obj\Debug\net8.0\Counting.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\CountingApp\Counting\obj\Debug\net8.0\Counting.sourcelink.json
+C:\Users\cbrow\source\repos\CountingApp\Counting\obj\Debug\net8.0\Counting.dll
+C:\Users\cbrow\source\repos\CountingApp\Counting\obj\Debug\net8.0\refint\Counting.dll
+C:\Users\cbrow\source\repos\CountingApp\Counting\obj\Debug\net8.0\Counting.pdb
+C:\Users\cbrow\source\repos\CountingApp\Counting\obj\Debug\net8.0\Counting.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\CountingApp\Counting\obj\Debug\net8.0\ref\Counting.dll

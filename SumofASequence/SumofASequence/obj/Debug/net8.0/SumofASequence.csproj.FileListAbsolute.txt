@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\SumofASequence\SumofASequence\bin\Debug\net8.0\SumofASequence.exe
+C:\Users\cbrow\source\repos\SumofASequence\SumofASequence\bin\Debug\net8.0\SumofASequence.deps.json
+C:\Users\cbrow\source\repos\SumofASequence\SumofASequence\bin\Debug\net8.0\SumofASequence.runtimeconfig.json
+C:\Users\cbrow\source\repos\SumofASequence\SumofASequence\bin\Debug\net8.0\SumofASequence.dll
+C:\Users\cbrow\source\repos\SumofASequence\SumofASequence\bin\Debug\net8.0\SumofASequence.pdb
+C:\Users\cbrow\source\repos\SumofASequence\SumofASequence\obj\Debug\net8.0\SumofASequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\SumofASequence\SumofASequence\obj\Debug\net8.0\SumofASequence.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\SumofASequence\SumofASequence\obj\Debug\net8.0\SumofASequence.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\SumofASequence\SumofASequence\obj\Debug\net8.0\SumofASequence.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\SumofASequence\SumofASequence\obj\Debug\net8.0\SumofASequence.sourcelink.json
+C:\Users\cbrow\source\repos\SumofASequence\SumofASequence\obj\Debug\net8.0\SumofASequence.dll
+C:\Users\cbrow\source\repos\SumofASequence\SumofASequence\obj\Debug\net8.0\refint\SumofASequence.dll
+C:\Users\cbrow\source\repos\SumofASequence\SumofASequence\obj\Debug\net8.0\SumofASequence.pdb
+C:\Users\cbrow\source\repos\SumofASequence\SumofASequence\obj\Debug\net8.0\SumofASequence.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\SumofASequence\SumofASequence\obj\Debug\net8.0\ref\SumofASequence.dll

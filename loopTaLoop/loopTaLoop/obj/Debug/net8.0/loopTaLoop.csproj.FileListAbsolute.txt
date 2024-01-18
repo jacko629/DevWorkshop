@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\loopTaLoop\loopTaLoop\bin\Debug\net8.0\loopTaLoop.exe
+C:\Users\cbrow\source\repos\loopTaLoop\loopTaLoop\bin\Debug\net8.0\loopTaLoop.deps.json
+C:\Users\cbrow\source\repos\loopTaLoop\loopTaLoop\bin\Debug\net8.0\loopTaLoop.runtimeconfig.json
+C:\Users\cbrow\source\repos\loopTaLoop\loopTaLoop\bin\Debug\net8.0\loopTaLoop.dll
+C:\Users\cbrow\source\repos\loopTaLoop\loopTaLoop\bin\Debug\net8.0\loopTaLoop.pdb
+C:\Users\cbrow\source\repos\loopTaLoop\loopTaLoop\obj\Debug\net8.0\loopTaLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\loopTaLoop\loopTaLoop\obj\Debug\net8.0\loopTaLoop.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\loopTaLoop\loopTaLoop\obj\Debug\net8.0\loopTaLoop.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\loopTaLoop\loopTaLoop\obj\Debug\net8.0\loopTaLoop.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\loopTaLoop\loopTaLoop\obj\Debug\net8.0\loopTaLoop.sourcelink.json
+C:\Users\cbrow\source\repos\loopTaLoop\loopTaLoop\obj\Debug\net8.0\loopTaLoop.dll
+C:\Users\cbrow\source\repos\loopTaLoop\loopTaLoop\obj\Debug\net8.0\refint\loopTaLoop.dll
+C:\Users\cbrow\source\repos\loopTaLoop\loopTaLoop\obj\Debug\net8.0\loopTaLoop.pdb
+C:\Users\cbrow\source\repos\loopTaLoop\loopTaLoop\obj\Debug\net8.0\loopTaLoop.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\loopTaLoop\loopTaLoop\obj\Debug\net8.0\ref\loopTaLoop.dll

@@ -1,0 +1,7 @@
+﻿GitHub Copilot 1.137.0.0 (v1.137.0.0@2f127d06d)
+GitHub Copilot Agent 1.137.0 (1.137.0)
+Copilot may not display suggestions. Enable whole line completions in IntelliCode settings for complete suggestions.
+WARNING: Copilot may display fewer suggestions. Enable "Show completions on new lines" in IntelliCode advanced settings for more suggestions.
+[DEBUG] [agent] [2024-01-24T02:51:25.271Z] Agent service starting
+[DEBUG] [agent] [2024-01-24T02:51:25.292Z] Telemetry initialized
+Auth Status: NotSignedIn

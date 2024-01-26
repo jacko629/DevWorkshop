@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\doLoop\doLoop\bin\Debug\net8.0\doLoop.exe
+C:\Users\cbrow\source\repos\doLoop\doLoop\bin\Debug\net8.0\doLoop.deps.json
+C:\Users\cbrow\source\repos\doLoop\doLoop\bin\Debug\net8.0\doLoop.runtimeconfig.json
+C:\Users\cbrow\source\repos\doLoop\doLoop\bin\Debug\net8.0\doLoop.dll
+C:\Users\cbrow\source\repos\doLoop\doLoop\bin\Debug\net8.0\doLoop.pdb
+C:\Users\cbrow\source\repos\doLoop\doLoop\obj\Debug\net8.0\doLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\doLoop\doLoop\obj\Debug\net8.0\doLoop.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\doLoop\doLoop\obj\Debug\net8.0\doLoop.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\doLoop\doLoop\obj\Debug\net8.0\doLoop.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\doLoop\doLoop\obj\Debug\net8.0\doLoop.sourcelink.json
+C:\Users\cbrow\source\repos\doLoop\doLoop\obj\Debug\net8.0\doLoop.dll
+C:\Users\cbrow\source\repos\doLoop\doLoop\obj\Debug\net8.0\refint\doLoop.dll
+C:\Users\cbrow\source\repos\doLoop\doLoop\obj\Debug\net8.0\doLoop.pdb
+C:\Users\cbrow\source\repos\doLoop\doLoop\obj\Debug\net8.0\doLoop.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\doLoop\doLoop\obj\Debug\net8.0\ref\doLoop.dll

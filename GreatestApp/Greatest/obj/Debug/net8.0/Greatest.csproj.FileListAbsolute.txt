@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\GreatestApp\Greatest\bin\Debug\net8.0\Greatest.exe
+C:\Users\cbrow\source\repos\GreatestApp\Greatest\bin\Debug\net8.0\Greatest.deps.json
+C:\Users\cbrow\source\repos\GreatestApp\Greatest\bin\Debug\net8.0\Greatest.runtimeconfig.json
+C:\Users\cbrow\source\repos\GreatestApp\Greatest\bin\Debug\net8.0\Greatest.dll
+C:\Users\cbrow\source\repos\GreatestApp\Greatest\bin\Debug\net8.0\Greatest.pdb
+C:\Users\cbrow\source\repos\GreatestApp\Greatest\obj\Debug\net8.0\Greatest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\GreatestApp\Greatest\obj\Debug\net8.0\Greatest.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\GreatestApp\Greatest\obj\Debug\net8.0\Greatest.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\GreatestApp\Greatest\obj\Debug\net8.0\Greatest.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\GreatestApp\Greatest\obj\Debug\net8.0\Greatest.sourcelink.json
+C:\Users\cbrow\source\repos\GreatestApp\Greatest\obj\Debug\net8.0\Greatest.dll
+C:\Users\cbrow\source\repos\GreatestApp\Greatest\obj\Debug\net8.0\refint\Greatest.dll
+C:\Users\cbrow\source\repos\GreatestApp\Greatest\obj\Debug\net8.0\Greatest.pdb
+C:\Users\cbrow\source\repos\GreatestApp\Greatest\obj\Debug\net8.0\Greatest.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\GreatestApp\Greatest\obj\Debug\net8.0\ref\Greatest.dll

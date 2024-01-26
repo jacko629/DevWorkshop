@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "testMethodFunction/1.0.0": {
+        "runtime": {
+          "testMethodFunction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "testMethodFunction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

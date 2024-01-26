@@ -2,4 +2,4 @@
 
 //PrintHelper.PrintUntilNumber(2);
 
-TestParam.PrintFromNumberToOne(5);
+//TestParam.PrintFromNumberToOne(5);

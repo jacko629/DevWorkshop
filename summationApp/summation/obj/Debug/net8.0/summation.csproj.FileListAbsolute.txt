@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\summationApp\summation\bin\Debug\net8.0\summation.exe
+C:\Users\cbrow\source\repos\summationApp\summation\bin\Debug\net8.0\summation.deps.json
+C:\Users\cbrow\source\repos\summationApp\summation\bin\Debug\net8.0\summation.runtimeconfig.json
+C:\Users\cbrow\source\repos\summationApp\summation\bin\Debug\net8.0\summation.dll
+C:\Users\cbrow\source\repos\summationApp\summation\bin\Debug\net8.0\summation.pdb
+C:\Users\cbrow\source\repos\summationApp\summation\obj\Debug\net8.0\summation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\summationApp\summation\obj\Debug\net8.0\summation.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\summationApp\summation\obj\Debug\net8.0\summation.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\summationApp\summation\obj\Debug\net8.0\summation.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\summationApp\summation\obj\Debug\net8.0\summation.sourcelink.json
+C:\Users\cbrow\source\repos\summationApp\summation\obj\Debug\net8.0\summation.dll
+C:\Users\cbrow\source\repos\summationApp\summation\obj\Debug\net8.0\refint\summation.dll
+C:\Users\cbrow\source\repos\summationApp\summation\obj\Debug\net8.0\summation.pdb
+C:\Users\cbrow\source\repos\summationApp\summation\obj\Debug\net8.0\summation.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\summationApp\summation\obj\Debug\net8.0\ref\summation.dll

@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\SmallestApp\Smallest\bin\Debug\net8.0\Smallest.exe
+C:\Users\cbrow\source\repos\SmallestApp\Smallest\bin\Debug\net8.0\Smallest.deps.json
+C:\Users\cbrow\source\repos\SmallestApp\Smallest\bin\Debug\net8.0\Smallest.runtimeconfig.json
+C:\Users\cbrow\source\repos\SmallestApp\Smallest\bin\Debug\net8.0\Smallest.dll
+C:\Users\cbrow\source\repos\SmallestApp\Smallest\bin\Debug\net8.0\Smallest.pdb
+C:\Users\cbrow\source\repos\SmallestApp\Smallest\obj\Debug\net8.0\Smallest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\SmallestApp\Smallest\obj\Debug\net8.0\Smallest.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\SmallestApp\Smallest\obj\Debug\net8.0\Smallest.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\SmallestApp\Smallest\obj\Debug\net8.0\Smallest.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\SmallestApp\Smallest\obj\Debug\net8.0\Smallest.sourcelink.json
+C:\Users\cbrow\source\repos\SmallestApp\Smallest\obj\Debug\net8.0\Smallest.dll
+C:\Users\cbrow\source\repos\SmallestApp\Smallest\obj\Debug\net8.0\refint\Smallest.dll
+C:\Users\cbrow\source\repos\SmallestApp\Smallest\obj\Debug\net8.0\Smallest.pdb
+C:\Users\cbrow\source\repos\SmallestApp\Smallest\obj\Debug\net8.0\Smallest.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\SmallestApp\Smallest\obj\Debug\net8.0\ref\Smallest.dll

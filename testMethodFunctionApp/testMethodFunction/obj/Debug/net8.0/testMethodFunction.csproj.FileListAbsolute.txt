@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\testMethodFunctionApp\testMethodFunction\bin\Debug\net8.0\testMethodFunction.exe
+C:\Users\cbrow\source\repos\testMethodFunctionApp\testMethodFunction\bin\Debug\net8.0\testMethodFunction.deps.json
+C:\Users\cbrow\source\repos\testMethodFunctionApp\testMethodFunction\bin\Debug\net8.0\testMethodFunction.runtimeconfig.json
+C:\Users\cbrow\source\repos\testMethodFunctionApp\testMethodFunction\bin\Debug\net8.0\testMethodFunction.dll
+C:\Users\cbrow\source\repos\testMethodFunctionApp\testMethodFunction\bin\Debug\net8.0\testMethodFunction.pdb
+C:\Users\cbrow\source\repos\testMethodFunctionApp\testMethodFunction\obj\Debug\net8.0\testMethodFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\testMethodFunctionApp\testMethodFunction\obj\Debug\net8.0\testMethodFunction.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\testMethodFunctionApp\testMethodFunction\obj\Debug\net8.0\testMethodFunction.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\testMethodFunctionApp\testMethodFunction\obj\Debug\net8.0\testMethodFunction.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\testMethodFunctionApp\testMethodFunction\obj\Debug\net8.0\testMethodFunction.sourcelink.json
+C:\Users\cbrow\source\repos\testMethodFunctionApp\testMethodFunction\obj\Debug\net8.0\testMethodFunction.dll
+C:\Users\cbrow\source\repos\testMethodFunctionApp\testMethodFunction\obj\Debug\net8.0\refint\testMethodFunction.dll
+C:\Users\cbrow\source\repos\testMethodFunctionApp\testMethodFunction\obj\Debug\net8.0\testMethodFunction.pdb
+C:\Users\cbrow\source\repos\testMethodFunctionApp\testMethodFunction\obj\Debug\net8.0\testMethodFunction.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\testMethodFunctionApp\testMethodFunction\obj\Debug\net8.0\ref\testMethodFunction.dll

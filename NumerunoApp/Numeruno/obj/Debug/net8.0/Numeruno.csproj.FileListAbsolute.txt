@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\NumerunoApp\Numeruno\bin\Debug\net8.0\Numeruno.exe
+C:\Users\cbrow\source\repos\NumerunoApp\Numeruno\bin\Debug\net8.0\Numeruno.deps.json
+C:\Users\cbrow\source\repos\NumerunoApp\Numeruno\bin\Debug\net8.0\Numeruno.runtimeconfig.json
+C:\Users\cbrow\source\repos\NumerunoApp\Numeruno\bin\Debug\net8.0\Numeruno.dll
+C:\Users\cbrow\source\repos\NumerunoApp\Numeruno\bin\Debug\net8.0\Numeruno.pdb
+C:\Users\cbrow\source\repos\NumerunoApp\Numeruno\obj\Debug\net8.0\Numeruno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\NumerunoApp\Numeruno\obj\Debug\net8.0\Numeruno.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\NumerunoApp\Numeruno\obj\Debug\net8.0\Numeruno.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\NumerunoApp\Numeruno\obj\Debug\net8.0\Numeruno.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\NumerunoApp\Numeruno\obj\Debug\net8.0\Numeruno.sourcelink.json
+C:\Users\cbrow\source\repos\NumerunoApp\Numeruno\obj\Debug\net8.0\Numeruno.dll
+C:\Users\cbrow\source\repos\NumerunoApp\Numeruno\obj\Debug\net8.0\refint\Numeruno.dll
+C:\Users\cbrow\source\repos\NumerunoApp\Numeruno\obj\Debug\net8.0\Numeruno.pdb
+C:\Users\cbrow\source\repos\NumerunoApp\Numeruno\obj\Debug\net8.0\Numeruno.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\NumerunoApp\Numeruno\obj\Debug\net8.0\ref\Numeruno.dll

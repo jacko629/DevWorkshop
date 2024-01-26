@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\ProfessorApp\Professor\bin\Debug\net8.0\Professor.exe
+C:\Users\cbrow\source\repos\ProfessorApp\Professor\bin\Debug\net8.0\Professor.deps.json
+C:\Users\cbrow\source\repos\ProfessorApp\Professor\bin\Debug\net8.0\Professor.runtimeconfig.json
+C:\Users\cbrow\source\repos\ProfessorApp\Professor\bin\Debug\net8.0\Professor.dll
+C:\Users\cbrow\source\repos\ProfessorApp\Professor\bin\Debug\net8.0\Professor.pdb
+C:\Users\cbrow\source\repos\ProfessorApp\Professor\obj\Debug\net8.0\Professor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\ProfessorApp\Professor\obj\Debug\net8.0\Professor.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\ProfessorApp\Professor\obj\Debug\net8.0\Professor.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\ProfessorApp\Professor\obj\Debug\net8.0\Professor.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\ProfessorApp\Professor\obj\Debug\net8.0\Professor.sourcelink.json
+C:\Users\cbrow\source\repos\ProfessorApp\Professor\obj\Debug\net8.0\Professor.dll
+C:\Users\cbrow\source\repos\ProfessorApp\Professor\obj\Debug\net8.0\refint\Professor.dll
+C:\Users\cbrow\source\repos\ProfessorApp\Professor\obj\Debug\net8.0\Professor.pdb
+C:\Users\cbrow\source\repos\ProfessorApp\Professor\obj\Debug\net8.0\Professor.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\ProfessorApp\Professor\obj\Debug\net8.0\ref\Professor.dll

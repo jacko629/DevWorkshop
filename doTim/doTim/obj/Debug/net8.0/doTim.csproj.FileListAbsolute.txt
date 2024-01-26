@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\doTim\doTim\bin\Debug\net8.0\doTim.exe
+C:\Users\cbrow\source\repos\doTim\doTim\bin\Debug\net8.0\doTim.deps.json
+C:\Users\cbrow\source\repos\doTim\doTim\bin\Debug\net8.0\doTim.runtimeconfig.json
+C:\Users\cbrow\source\repos\doTim\doTim\bin\Debug\net8.0\doTim.dll
+C:\Users\cbrow\source\repos\doTim\doTim\bin\Debug\net8.0\doTim.pdb
+C:\Users\cbrow\source\repos\doTim\doTim\obj\Debug\net8.0\doTim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\doTim\doTim\obj\Debug\net8.0\doTim.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\doTim\doTim\obj\Debug\net8.0\doTim.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\doTim\doTim\obj\Debug\net8.0\doTim.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\doTim\doTim\obj\Debug\net8.0\doTim.sourcelink.json
+C:\Users\cbrow\source\repos\doTim\doTim\obj\Debug\net8.0\doTim.dll
+C:\Users\cbrow\source\repos\doTim\doTim\obj\Debug\net8.0\refint\doTim.dll
+C:\Users\cbrow\source\repos\doTim\doTim\obj\Debug\net8.0\doTim.pdb
+C:\Users\cbrow\source\repos\doTim\doTim\obj\Debug\net8.0\doTim.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\doTim\doTim\obj\Debug\net8.0\ref\doTim.dll

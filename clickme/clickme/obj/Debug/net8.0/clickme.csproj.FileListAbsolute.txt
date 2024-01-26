@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\clickme\clickme\bin\Debug\net8.0\clickme.exe
+C:\Users\cbrow\source\repos\clickme\clickme\bin\Debug\net8.0\clickme.deps.json
+C:\Users\cbrow\source\repos\clickme\clickme\bin\Debug\net8.0\clickme.runtimeconfig.json
+C:\Users\cbrow\source\repos\clickme\clickme\bin\Debug\net8.0\clickme.dll
+C:\Users\cbrow\source\repos\clickme\clickme\bin\Debug\net8.0\clickme.pdb
+C:\Users\cbrow\source\repos\clickme\clickme\obj\Debug\net8.0\clickme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\clickme\clickme\obj\Debug\net8.0\clickme.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\clickme\clickme\obj\Debug\net8.0\clickme.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\clickme\clickme\obj\Debug\net8.0\clickme.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\clickme\clickme\obj\Debug\net8.0\clickme.sourcelink.json
+C:\Users\cbrow\source\repos\clickme\clickme\obj\Debug\net8.0\clickme.dll
+C:\Users\cbrow\source\repos\clickme\clickme\obj\Debug\net8.0\refint\clickme.dll
+C:\Users\cbrow\source\repos\clickme\clickme\obj\Debug\net8.0\clickme.pdb
+C:\Users\cbrow\source\repos\clickme\clickme\obj\Debug\net8.0\clickme.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\clickme\clickme\obj\Debug\net8.0\ref\clickme.dll

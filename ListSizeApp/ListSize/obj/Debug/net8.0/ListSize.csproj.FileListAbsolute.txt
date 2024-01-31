@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\ListSizeApp\ListSize\bin\Debug\net8.0\ListSize.exe
+C:\Users\cbrow\source\repos\ListSizeApp\ListSize\bin\Debug\net8.0\ListSize.deps.json
+C:\Users\cbrow\source\repos\ListSizeApp\ListSize\bin\Debug\net8.0\ListSize.runtimeconfig.json
+C:\Users\cbrow\source\repos\ListSizeApp\ListSize\bin\Debug\net8.0\ListSize.dll
+C:\Users\cbrow\source\repos\ListSizeApp\ListSize\bin\Debug\net8.0\ListSize.pdb
+C:\Users\cbrow\source\repos\ListSizeApp\ListSize\obj\Debug\net8.0\ListSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\ListSizeApp\ListSize\obj\Debug\net8.0\ListSize.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\ListSizeApp\ListSize\obj\Debug\net8.0\ListSize.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\ListSizeApp\ListSize\obj\Debug\net8.0\ListSize.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\ListSizeApp\ListSize\obj\Debug\net8.0\ListSize.sourcelink.json
+C:\Users\cbrow\source\repos\ListSizeApp\ListSize\obj\Debug\net8.0\ListSize.dll
+C:\Users\cbrow\source\repos\ListSizeApp\ListSize\obj\Debug\net8.0\refint\ListSize.dll
+C:\Users\cbrow\source\repos\ListSizeApp\ListSize\obj\Debug\net8.0\ListSize.pdb
+C:\Users\cbrow\source\repos\ListSizeApp\ListSize\obj\Debug\net8.0\ListSize.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\ListSizeApp\ListSize\obj\Debug\net8.0\ref\ListSize.dll

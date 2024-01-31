@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\Fkey\Fkey\obj\Debug\net8.0\Fkey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\Fkey\Fkey\obj\Debug\net8.0\Fkey.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\Fkey\Fkey\obj\Debug\net8.0\Fkey.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\Fkey\Fkey\obj\Debug\net8.0\Fkey.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\Fkey\Fkey\obj\Debug\net8.0\Fkey.sourcelink.json
+C:\Users\cbrow\source\repos\Fkey\Fkey\bin\Debug\net8.0\Fkey.exe
+C:\Users\cbrow\source\repos\Fkey\Fkey\bin\Debug\net8.0\Fkey.deps.json
+C:\Users\cbrow\source\repos\Fkey\Fkey\bin\Debug\net8.0\Fkey.runtimeconfig.json
+C:\Users\cbrow\source\repos\Fkey\Fkey\bin\Debug\net8.0\Fkey.dll
+C:\Users\cbrow\source\repos\Fkey\Fkey\bin\Debug\net8.0\Fkey.pdb
+C:\Users\cbrow\source\repos\Fkey\Fkey\obj\Debug\net8.0\Fkey.dll
+C:\Users\cbrow\source\repos\Fkey\Fkey\obj\Debug\net8.0\refint\Fkey.dll
+C:\Users\cbrow\source\repos\Fkey\Fkey\obj\Debug\net8.0\Fkey.pdb
+C:\Users\cbrow\source\repos\Fkey\Fkey\obj\Debug\net8.0\Fkey.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\Fkey\Fkey\obj\Debug\net8.0\ref\Fkey.dll

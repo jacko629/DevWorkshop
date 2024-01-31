@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\ThirdElementaAOO\ThirdElement\bin\Debug\net8.0\ThirdElement.exe
+C:\Users\cbrow\source\repos\ThirdElementaAOO\ThirdElement\bin\Debug\net8.0\ThirdElement.deps.json
+C:\Users\cbrow\source\repos\ThirdElementaAOO\ThirdElement\bin\Debug\net8.0\ThirdElement.runtimeconfig.json
+C:\Users\cbrow\source\repos\ThirdElementaAOO\ThirdElement\bin\Debug\net8.0\ThirdElement.dll
+C:\Users\cbrow\source\repos\ThirdElementaAOO\ThirdElement\bin\Debug\net8.0\ThirdElement.pdb
+C:\Users\cbrow\source\repos\ThirdElementaAOO\ThirdElement\obj\Debug\net8.0\ThirdElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\ThirdElementaAOO\ThirdElement\obj\Debug\net8.0\ThirdElement.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\ThirdElementaAOO\ThirdElement\obj\Debug\net8.0\ThirdElement.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\ThirdElementaAOO\ThirdElement\obj\Debug\net8.0\ThirdElement.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\ThirdElementaAOO\ThirdElement\obj\Debug\net8.0\ThirdElement.sourcelink.json
+C:\Users\cbrow\source\repos\ThirdElementaAOO\ThirdElement\obj\Debug\net8.0\ThirdElement.dll
+C:\Users\cbrow\source\repos\ThirdElementaAOO\ThirdElement\obj\Debug\net8.0\refint\ThirdElement.dll
+C:\Users\cbrow\source\repos\ThirdElementaAOO\ThirdElement\obj\Debug\net8.0\ThirdElement.pdb
+C:\Users\cbrow\source\repos\ThirdElementaAOO\ThirdElement\obj\Debug\net8.0\ThirdElement.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\ThirdElementaAOO\ThirdElement\obj\Debug\net8.0\ref\ThirdElement.dll

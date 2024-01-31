@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\firstAndLastApp\firstAndLast\bin\Debug\net8.0\firstAndLast.exe
+C:\Users\cbrow\source\repos\firstAndLastApp\firstAndLast\bin\Debug\net8.0\firstAndLast.deps.json
+C:\Users\cbrow\source\repos\firstAndLastApp\firstAndLast\bin\Debug\net8.0\firstAndLast.runtimeconfig.json
+C:\Users\cbrow\source\repos\firstAndLastApp\firstAndLast\bin\Debug\net8.0\firstAndLast.dll
+C:\Users\cbrow\source\repos\firstAndLastApp\firstAndLast\bin\Debug\net8.0\firstAndLast.pdb
+C:\Users\cbrow\source\repos\firstAndLastApp\firstAndLast\obj\Debug\net8.0\firstAndLast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\firstAndLastApp\firstAndLast\obj\Debug\net8.0\firstAndLast.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\firstAndLastApp\firstAndLast\obj\Debug\net8.0\firstAndLast.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\firstAndLastApp\firstAndLast\obj\Debug\net8.0\firstAndLast.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\firstAndLastApp\firstAndLast\obj\Debug\net8.0\firstAndLast.sourcelink.json
+C:\Users\cbrow\source\repos\firstAndLastApp\firstAndLast\obj\Debug\net8.0\firstAndLast.dll
+C:\Users\cbrow\source\repos\firstAndLastApp\firstAndLast\obj\Debug\net8.0\refint\firstAndLast.dll
+C:\Users\cbrow\source\repos\firstAndLastApp\firstAndLast\obj\Debug\net8.0\firstAndLast.pdb
+C:\Users\cbrow\source\repos\firstAndLastApp\firstAndLast\obj\Debug\net8.0\firstAndLast.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\firstAndLastApp\firstAndLast\obj\Debug\net8.0\ref\firstAndLast.dll

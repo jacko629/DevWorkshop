@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\secondPlusthirdApp\secondPlusthird\bin\Debug\net8.0\secondPlusthird.exe
+C:\Users\cbrow\source\repos\secondPlusthirdApp\secondPlusthird\bin\Debug\net8.0\secondPlusthird.deps.json
+C:\Users\cbrow\source\repos\secondPlusthirdApp\secondPlusthird\bin\Debug\net8.0\secondPlusthird.runtimeconfig.json
+C:\Users\cbrow\source\repos\secondPlusthirdApp\secondPlusthird\bin\Debug\net8.0\secondPlusthird.dll
+C:\Users\cbrow\source\repos\secondPlusthirdApp\secondPlusthird\bin\Debug\net8.0\secondPlusthird.pdb
+C:\Users\cbrow\source\repos\secondPlusthirdApp\secondPlusthird\obj\Debug\net8.0\secondPlusthird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\secondPlusthirdApp\secondPlusthird\obj\Debug\net8.0\secondPlusthird.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\secondPlusthirdApp\secondPlusthird\obj\Debug\net8.0\secondPlusthird.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\secondPlusthirdApp\secondPlusthird\obj\Debug\net8.0\secondPlusthird.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\secondPlusthirdApp\secondPlusthird\obj\Debug\net8.0\secondPlusthird.sourcelink.json
+C:\Users\cbrow\source\repos\secondPlusthirdApp\secondPlusthird\obj\Debug\net8.0\secondPlusthird.dll
+C:\Users\cbrow\source\repos\secondPlusthirdApp\secondPlusthird\obj\Debug\net8.0\refint\secondPlusthird.dll
+C:\Users\cbrow\source\repos\secondPlusthirdApp\secondPlusthird\obj\Debug\net8.0\secondPlusthird.pdb
+C:\Users\cbrow\source\repos\secondPlusthirdApp\secondPlusthird\obj\Debug\net8.0\secondPlusthird.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\secondPlusthirdApp\secondPlusthird\obj\Debug\net8.0\ref\secondPlusthird.dll

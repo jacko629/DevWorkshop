@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\starSignApp\starSignApp\bin\Debug\net8.0\starSignApp.exe
+C:\Users\cbrow\source\repos\starSignApp\starSignApp\bin\Debug\net8.0\starSignApp.deps.json
+C:\Users\cbrow\source\repos\starSignApp\starSignApp\bin\Debug\net8.0\starSignApp.runtimeconfig.json
+C:\Users\cbrow\source\repos\starSignApp\starSignApp\bin\Debug\net8.0\starSignApp.dll
+C:\Users\cbrow\source\repos\starSignApp\starSignApp\bin\Debug\net8.0\starSignApp.pdb
+C:\Users\cbrow\source\repos\starSignApp\starSignApp\obj\Debug\net8.0\starSignApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\starSignApp\starSignApp\obj\Debug\net8.0\starSignApp.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\starSignApp\starSignApp\obj\Debug\net8.0\starSignApp.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\starSignApp\starSignApp\obj\Debug\net8.0\starSignApp.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\starSignApp\starSignApp\obj\Debug\net8.0\starSignApp.sourcelink.json
+C:\Users\cbrow\source\repos\starSignApp\starSignApp\obj\Debug\net8.0\starSignApp.dll
+C:\Users\cbrow\source\repos\starSignApp\starSignApp\obj\Debug\net8.0\refint\starSignApp.dll
+C:\Users\cbrow\source\repos\starSignApp\starSignApp\obj\Debug\net8.0\starSignApp.pdb
+C:\Users\cbrow\source\repos\starSignApp\starSignApp\obj\Debug\net8.0\starSignApp.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\starSignApp\starSignApp\obj\Debug\net8.0\ref\starSignApp.dll

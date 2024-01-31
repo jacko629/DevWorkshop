@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\LastInListApp\LastInList\bin\Debug\net8.0\LastInList.exe
+C:\Users\cbrow\source\repos\LastInListApp\LastInList\bin\Debug\net8.0\LastInList.deps.json
+C:\Users\cbrow\source\repos\LastInListApp\LastInList\bin\Debug\net8.0\LastInList.runtimeconfig.json
+C:\Users\cbrow\source\repos\LastInListApp\LastInList\bin\Debug\net8.0\LastInList.dll
+C:\Users\cbrow\source\repos\LastInListApp\LastInList\bin\Debug\net8.0\LastInList.pdb
+C:\Users\cbrow\source\repos\LastInListApp\LastInList\obj\Debug\net8.0\LastInList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\LastInListApp\LastInList\obj\Debug\net8.0\LastInList.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\LastInListApp\LastInList\obj\Debug\net8.0\LastInList.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\LastInListApp\LastInList\obj\Debug\net8.0\LastInList.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\LastInListApp\LastInList\obj\Debug\net8.0\LastInList.sourcelink.json
+C:\Users\cbrow\source\repos\LastInListApp\LastInList\obj\Debug\net8.0\LastInList.dll
+C:\Users\cbrow\source\repos\LastInListApp\LastInList\obj\Debug\net8.0\refint\LastInList.dll
+C:\Users\cbrow\source\repos\LastInListApp\LastInList\obj\Debug\net8.0\LastInList.pdb
+C:\Users\cbrow\source\repos\LastInListApp\LastInList\obj\Debug\net8.0\LastInList.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\LastInListApp\LastInList\obj\Debug\net8.0\ref\LastInList.dll

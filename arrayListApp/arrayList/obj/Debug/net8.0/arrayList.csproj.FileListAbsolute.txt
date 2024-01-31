@@ -1,0 +1,5 @@
+C:\Users\cbrow\source\repos\arrayListApp\arrayList\obj\Debug\net8.0\arrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\arrayListApp\arrayList\obj\Debug\net8.0\arrayList.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\arrayListApp\arrayList\obj\Debug\net8.0\arrayList.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\arrayListApp\arrayList\obj\Debug\net8.0\arrayList.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\arrayListApp\arrayList\obj\Debug\net8.0\arrayList.sourcelink.json

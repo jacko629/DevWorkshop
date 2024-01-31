@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\averageNewApp\averageNew\bin\Debug\net8.0\averageNew.exe
+C:\Users\cbrow\source\repos\averageNewApp\averageNew\bin\Debug\net8.0\averageNew.deps.json
+C:\Users\cbrow\source\repos\averageNewApp\averageNew\bin\Debug\net8.0\averageNew.runtimeconfig.json
+C:\Users\cbrow\source\repos\averageNewApp\averageNew\bin\Debug\net8.0\averageNew.dll
+C:\Users\cbrow\source\repos\averageNewApp\averageNew\bin\Debug\net8.0\averageNew.pdb
+C:\Users\cbrow\source\repos\averageNewApp\averageNew\obj\Debug\net8.0\averageNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\averageNewApp\averageNew\obj\Debug\net8.0\averageNew.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\averageNewApp\averageNew\obj\Debug\net8.0\averageNew.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\averageNewApp\averageNew\obj\Debug\net8.0\averageNew.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\averageNewApp\averageNew\obj\Debug\net8.0\averageNew.sourcelink.json
+C:\Users\cbrow\source\repos\averageNewApp\averageNew\obj\Debug\net8.0\averageNew.dll
+C:\Users\cbrow\source\repos\averageNewApp\averageNew\obj\Debug\net8.0\refint\averageNew.dll
+C:\Users\cbrow\source\repos\averageNewApp\averageNew\obj\Debug\net8.0\averageNew.pdb
+C:\Users\cbrow\source\repos\averageNewApp\averageNew\obj\Debug\net8.0\averageNew.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\averageNewApp\averageNew\obj\Debug\net8.0\ref\averageNew.dll

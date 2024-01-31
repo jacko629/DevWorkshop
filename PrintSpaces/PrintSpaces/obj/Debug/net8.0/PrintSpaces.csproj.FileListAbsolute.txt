@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\PrintSpaces\PrintSpaces\bin\Debug\net8.0\PrintSpaces.exe
+C:\Users\cbrow\source\repos\PrintSpaces\PrintSpaces\bin\Debug\net8.0\PrintSpaces.deps.json
+C:\Users\cbrow\source\repos\PrintSpaces\PrintSpaces\bin\Debug\net8.0\PrintSpaces.runtimeconfig.json
+C:\Users\cbrow\source\repos\PrintSpaces\PrintSpaces\bin\Debug\net8.0\PrintSpaces.dll
+C:\Users\cbrow\source\repos\PrintSpaces\PrintSpaces\bin\Debug\net8.0\PrintSpaces.pdb
+C:\Users\cbrow\source\repos\PrintSpaces\PrintSpaces\obj\Debug\net8.0\PrintSpaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\PrintSpaces\PrintSpaces\obj\Debug\net8.0\PrintSpaces.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\PrintSpaces\PrintSpaces\obj\Debug\net8.0\PrintSpaces.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\PrintSpaces\PrintSpaces\obj\Debug\net8.0\PrintSpaces.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\PrintSpaces\PrintSpaces\obj\Debug\net8.0\PrintSpaces.sourcelink.json
+C:\Users\cbrow\source\repos\PrintSpaces\PrintSpaces\obj\Debug\net8.0\PrintSpaces.dll
+C:\Users\cbrow\source\repos\PrintSpaces\PrintSpaces\obj\Debug\net8.0\refint\PrintSpaces.dll
+C:\Users\cbrow\source\repos\PrintSpaces\PrintSpaces\obj\Debug\net8.0\PrintSpaces.pdb
+C:\Users\cbrow\source\repos\PrintSpaces\PrintSpaces\obj\Debug\net8.0\PrintSpaces.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\PrintSpaces\PrintSpaces\obj\Debug\net8.0\ref\PrintSpaces.dll

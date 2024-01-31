@@ -1,0 +1,15 @@
+C:\Users\cbrow\source\repos\TeacherSaPP\Teachers\bin\Debug\net8.0\Teachers.exe
+C:\Users\cbrow\source\repos\TeacherSaPP\Teachers\bin\Debug\net8.0\Teachers.deps.json
+C:\Users\cbrow\source\repos\TeacherSaPP\Teachers\bin\Debug\net8.0\Teachers.runtimeconfig.json
+C:\Users\cbrow\source\repos\TeacherSaPP\Teachers\bin\Debug\net8.0\Teachers.dll
+C:\Users\cbrow\source\repos\TeacherSaPP\Teachers\bin\Debug\net8.0\Teachers.pdb
+C:\Users\cbrow\source\repos\TeacherSaPP\Teachers\obj\Debug\net8.0\Teachers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbrow\source\repos\TeacherSaPP\Teachers\obj\Debug\net8.0\Teachers.AssemblyInfoInputs.cache
+C:\Users\cbrow\source\repos\TeacherSaPP\Teachers\obj\Debug\net8.0\Teachers.AssemblyInfo.cs
+C:\Users\cbrow\source\repos\TeacherSaPP\Teachers\obj\Debug\net8.0\Teachers.csproj.CoreCompileInputs.cache
+C:\Users\cbrow\source\repos\TeacherSaPP\Teachers\obj\Debug\net8.0\Teachers.sourcelink.json
+C:\Users\cbrow\source\repos\TeacherSaPP\Teachers\obj\Debug\net8.0\Teachers.dll
+C:\Users\cbrow\source\repos\TeacherSaPP\Teachers\obj\Debug\net8.0\refint\Teachers.dll
+C:\Users\cbrow\source\repos\TeacherSaPP\Teachers\obj\Debug\net8.0\Teachers.pdb
+C:\Users\cbrow\source\repos\TeacherSaPP\Teachers\obj\Debug\net8.0\Teachers.genruntimeconfig.cache
+C:\Users\cbrow\source\repos\TeacherSaPP\Teachers\obj\Debug\net8.0\ref\Teachers.dll
